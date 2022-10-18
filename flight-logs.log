@@ -1,0 +1,1139 @@
+2022-10-03 19:40:13,535:AnonymousFacade:30608:28600:INFO:AnonymousFacade: adding customer by id None
+2022-10-03 19:40:13,535:AnonymousFacade:30608:28600:INFO:AnonymousFacade: adding user by id User: [id=None, user_name=customerTest, password=121212, email=email, user_role=2]
+2022-10-03 19:40:13,538:AnonymousFacade:30608:28600:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-03 19:40:13,538:AnonymousFacade:30608:28600:INFO:AnonymousFacade: adding customer by id Customer: [id=None, first_name=roy, last_name=duvdev, address=tel aviv, phone_no=235, credit_card_no=152, user_id=76]
+2022-10-03 19:40:13,541:AnonymousFacade:30608:28600:INFO:AnonymousFacade: customer add successfully
+2022-10-03 19:40:13,541:CustomerFacade:30608:28600:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=76]
+2022-10-03 19:40:26,261:AnonymousFacade:24632:5440:INFO:AnonymousFacade: adding customer by id None
+2022-10-03 19:40:26,261:AnonymousFacade:24632:5440:INFO:AnonymousFacade: adding user by id User: [id=None, user_name=customerTest, password=121212, email=email, user_role=2]
+2022-10-03 19:40:26,264:AnonymousFacade:24632:5440:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-03 19:40:26,264:AnonymousFacade:24632:5440:INFO:AnonymousFacade: adding customer by id Customer: [id=None, first_name=roy, last_name=duvdev, address=tel aviv, phone_no=235, credit_card_no=152, user_id=76]
+2022-10-03 19:40:26,267:AnonymousFacade:24632:5440:INFO:AnonymousFacade: customer add successfully
+2022-10-03 19:40:26,267:CustomerFacade:24632:5440:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=76]
+2022-10-03 19:41:05,193:AnonymousFacade:11208:27384:INFO:AnonymousFacade: adding customer by id None
+2022-10-03 19:41:05,193:AnonymousFacade:11208:27384:INFO:AnonymousFacade: adding user by id User: [id=None, user_name=customerTest, password=121212, email=email, user_role=2]
+2022-10-03 19:41:05,196:AnonymousFacade:11208:27384:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-03 19:41:05,196:AnonymousFacade:11208:27384:INFO:AnonymousFacade: adding customer by id Customer: [id=None, first_name=roy, last_name=duvdev, address=tel aviv, phone_no=235, credit_card_no=152, user_id=76]
+2022-10-03 19:41:05,199:AnonymousFacade:11208:27384:INFO:AnonymousFacade: customer add successfully
+2022-10-03 19:41:05,200:CustomerFacade:11208:27384:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=76]
+2022-10-03 19:51:47,453:AnonymousFacade:29844:30112:INFO:AnonymousFacade: adding customer by id None
+2022-10-03 19:51:47,453:AnonymousFacade:29844:30112:INFO:AnonymousFacade: adding user by id User: [id=None, user_name=customerTest, password=121212, email=email, user_role=2]
+2022-10-03 19:51:47,456:AnonymousFacade:29844:30112:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-03 19:51:47,457:AnonymousFacade:29844:30112:INFO:AnonymousFacade: adding customer by id Customer: [id=None, first_name=roy, last_name=duvdev, address=tel aviv, phone_no=235, credit_card_no=152, user_id=76]
+2022-10-03 19:51:47,459:AnonymousFacade:29844:30112:INFO:AnonymousFacade: customer add successfully
+2022-10-03 19:51:47,459:CustomerFacade:29844:30112:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=76]
+2022-10-03 19:52:17,809:AnonymousFacade:11848:31564:INFO:AnonymousFacade: adding customer by id None
+2022-10-03 19:52:17,809:AnonymousFacade:11848:31564:INFO:AnonymousFacade: adding user by id User: [id=None, user_name=customerTest, password=121212, email=email, user_role=2]
+2022-10-03 19:52:17,812:AnonymousFacade:11848:31564:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-03 19:52:17,813:AnonymousFacade:11848:31564:INFO:AnonymousFacade: adding customer by id Customer: [id=None, first_name=roy, last_name=duvdev, address=tel aviv, phone_no=235, credit_card_no=152, user_id=76]
+2022-10-03 19:52:17,815:AnonymousFacade:11848:31564:INFO:AnonymousFacade: customer add successfully
+2022-10-03 19:52:17,815:CustomerFacade:11848:31564:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=76]
+2022-10-03 19:54:03,092:AnonymousFacade:31192:31024:INFO:AnonymousFacade: adding customer by id None
+2022-10-03 19:54:03,092:AnonymousFacade:31192:31024:INFO:AnonymousFacade: adding user by id User: [id=None, user_name=customerTest, password=121212, email=email, user_role=2]
+2022-10-03 19:54:03,095:AnonymousFacade:31192:31024:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-03 19:54:03,095:AnonymousFacade:31192:31024:INFO:AnonymousFacade: adding customer by id Customer: [id=None, first_name=roy, last_name=duvdev, address=tel aviv, phone_no=235, credit_card_no=152, user_id=76]
+2022-10-03 19:54:03,098:AnonymousFacade:31192:31024:INFO:AnonymousFacade: customer add successfully
+2022-10-03 19:54:03,098:CustomerFacade:31192:31024:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=76]
+2022-10-03 19:54:21,179:AnonymousFacade:11472:21172:INFO:AnonymousFacade: adding customer by id None
+2022-10-03 19:54:28,492:AnonymousFacade:11472:21172:INFO:AnonymousFacade: adding user by id User: [id=None, user_name=customerTest, password=121212, email=email, user_role=2]
+2022-10-03 19:54:41,545:AnonymousFacade:11472:21172:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-03 19:54:51,457:AnonymousFacade:11472:21172:INFO:AnonymousFacade: adding customer by id Customer: [id=None, first_name=roy, last_name=duvdev, address=tel aviv, phone_no=235, credit_card_no=152, user_id=76]
+2022-10-03 19:55:06,472:AnonymousFacade:11472:21172:INFO:AnonymousFacade: customer add successfully
+2022-10-03 19:55:15,044:CustomerFacade:11472:21172:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=76]
+2022-10-03 19:55:41,119:AnonymousFacade:28576:29444:INFO:AnonymousFacade: adding customer by id None
+2022-10-03 19:55:41,122:AnonymousFacade:28576:29444:INFO:AnonymousFacade: adding user by id User: [id=None, user_name=customerTest, password=121212, email=email, user_role=2]
+2022-10-03 19:55:41,132:AnonymousFacade:28576:29444:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-03 19:55:41,133:AnonymousFacade:28576:29444:INFO:AnonymousFacade: adding customer by id Customer: [id=None, first_name=roy, last_name=duvdev, address=tel aviv, phone_no=235, credit_card_no=152, user_id=76]
+2022-10-03 19:55:41,140:AnonymousFacade:28576:29444:INFO:AnonymousFacade: customer add successfully
+2022-10-03 19:55:57,322:CustomerFacade:28576:29444:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=76]
+2022-10-03 19:58:36,982:AnonymousFacade:27608:20576:INFO:AnonymousFacade: adding customer by id None
+2022-10-03 19:58:36,982:AnonymousFacade:27608:20576:INFO:AnonymousFacade: adding user by id User: [id=None, user_name=customerTest, password=121212, email=email, user_role=2]
+2022-10-03 19:58:36,991:AnonymousFacade:27608:20576:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-03 19:58:36,991:AnonymousFacade:27608:20576:INFO:AnonymousFacade: adding customer by id Customer: [id=None, first_name=roy, last_name=duvdev, address=tel aviv, phone_no=235, credit_card_no=152, user_id=76]
+2022-10-03 19:58:37,001:AnonymousFacade:27608:20576:INFO:AnonymousFacade: customer add successfully
+2022-10-03 19:58:47,766:CustomerFacade:27608:20576:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=76]
+2022-10-03 20:00:12,962:AnonymousFacade:6624:30944:INFO:AnonymousFacade: adding customer by id None
+2022-10-03 20:00:12,962:AnonymousFacade:6624:30944:INFO:AnonymousFacade: adding user by id User: [id=None, user_name=customerTest, password=121212, email=email, user_role=2]
+2022-10-03 20:00:12,970:AnonymousFacade:6624:30944:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-03 20:00:12,970:AnonymousFacade:6624:30944:INFO:AnonymousFacade: adding customer by id Customer: [id=None, first_name=roy, last_name=duvdev, address=tel aviv, phone_no=235, credit_card_no=152, user_id=76]
+2022-10-03 20:00:12,976:AnonymousFacade:6624:30944:INFO:AnonymousFacade: customer add successfully
+2022-10-03 20:00:45,392:CustomerFacade:6624:30944:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=76]
+2022-10-03 20:01:53,396:AnonymousFacade:5580:19188:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-03 20:01:53,397:AnonymousFacade:5580:19188:ERROR:User: [id=5, user_name=roy_1212, password=6555, email=duv, user_role=3]
+2022-10-03 20:01:53,398:AnonymousFacade:5580:19188:ERROR:User: [id=5, user_name=roy_1212, password=6555, email=duv, user_role=3]
+2022-10-03 20:01:53,398:AnonymousFacade:5580:19188:INFO:LoginToken[id_=5, name="roy_1212", role="AirlineCompany"] logged in to the system.
+2022-10-03 20:01:53,558:AnonymousFacade:5580:19188:ERROR:None
+2022-10-03 20:01:53,723:AnonymousFacade:5580:19188:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-03 20:01:53,723:AnonymousFacade:5580:19188:ERROR:User: [id=5, user_name=roy, password=6555, email=duv, user_role=1]
+2022-10-03 20:01:53,724:AnonymousFacade:5580:19188:ERROR:User: [id=5, user_name=roy, password=6555, email=duv, user_role=1]
+2022-10-03 20:01:53,724:AnonymousFacade:5580:19188:INFO:Wrong username roy or password 65224 has been entered to the login function.
+2022-10-03 20:01:53,889:AnonymousFacade:5580:19188:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-03 20:01:54,052:AnonymousFacade:5580:19188:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-03 20:01:54,053:AnonymousFacade:5580:19188:ERROR:AnonymousFacade: UserName already exist!
+2022-10-03 20:02:02,349:AnonymousFacade:23888:2892:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-03 20:02:02,350:AnonymousFacade:23888:2892:ERROR:User: [id=5, user_name=roy_admin1, password=Aa1222, email=duv, user_role=1]
+2022-10-03 20:02:02,350:AnonymousFacade:23888:2892:ERROR:User: [id=5, user_name=roy_admin1, password=Aa1222, email=duv, user_role=1]
+2022-10-03 20:02:02,351:AnonymousFacade:23888:2892:INFO:LoginToken[id_=5, name="roy_admin1", role="Administrator"] logged in to the system.
+2022-10-03 20:02:02,513:AirlineCompanyFacade:23888:2892:INFO:AirlineCompanyFacade: updating airline 1
+2022-10-03 20:02:02,513:AirlineCompanyFacade:23888:2892:INFO:AirlineCompanyFacade: getting airline by id 1
+2022-10-03 20:02:02,678:AdministratorFacade:23888:2892:INFO:AdministratorFacade: adding airline by id None
+2022-10-03 20:02:02,680:AdministratorFacade:23888:2892:INFO:AdministratorFacade: airline add successfully
+2022-10-03 20:02:02,681:AirlineCompanyFacade:23888:2892:INFO:AirlineCompanyFacade: adding Flight: [id=5, airline_company_id=3, origin_country_id=3, destination_country_id=2, departure_time=2022-03-21 00:00:00, landing_time=2022-07-08 00:00:00, remaining_tickets=9]
+2022-10-03 20:02:02,684:AirlineCompanyFacade:23888:2892:INFO:AirlineCompanyFacade: adding flight 5 successes
+2022-10-03 20:02:02,684:AirlineCompanyFacade:23888:2892:INFO:AirlineCompanyFacade: updating flight
+2022-10-03 20:02:02,687:AirlineCompanyFacade:23888:2892:INFO:AirlineCompanyFacade: updating flight by id
+2022-10-03 20:02:02,847:AdministratorFacade:23888:2892:INFO:AdministratorFacade: adding airline by id None
+2022-10-03 20:02:02,849:AdministratorFacade:23888:2892:INFO:AdministratorFacade: airline add successfully
+2022-10-03 20:02:02,850:AirlineCompanyFacade:23888:2892:INFO:AirlineCompanyFacade: updating airline 3
+2022-10-03 20:02:02,850:AirlineCompanyFacade:23888:2892:INFO:AirlineCompanyFacade: getting airline by id 3
+2022-10-03 20:02:02,851:AirlineCompanyFacade:23888:2892:ERROR:AirlineCompanyFacade: could not update air cause negative country id
+2022-10-03 20:02:03,011:AirlineCompanyFacade:23888:2892:INFO:AirlineCompanyFacade: removing flight by id None
+2022-10-03 20:02:03,014:AirlineCompanyFacade:23888:2892:INFO:AirlineCompanyFacade: checking for flight removal by id None
+2022-10-03 20:02:03,014:AirlineCompanyFacade:23888:2892:INFO:AirlineCompanyFacade: updating flight
+2022-10-03 20:02:03,178:AdministratorFacade:23888:2892:INFO:AdministratorFacade: adding airline by id None
+2022-10-03 20:02:03,180:AdministratorFacade:23888:2892:INFO:AdministratorFacade: airline add successfully
+2022-10-03 20:02:03,181:AirlineCompanyFacade:23888:2892:INFO:AirlineCompanyFacade: updating airline 3
+2022-10-03 20:02:03,181:AirlineCompanyFacade:23888:2892:INFO:AirlineCompanyFacade: getting airline by id 3
+2022-10-03 20:02:03,182:AirlineCompanyFacade:23888:2892:ERROR:AirlineCompanyFacade: could not update air cause negative user id
+2022-10-03 20:02:03,345:AirlineCompanyFacade:23888:2892:INFO:AirlineCompanyFacade: updating flight
+2022-10-03 20:02:03,511:AdministratorFacade:23888:2892:INFO:AdministratorFacade: adding airline by id None
+2022-10-03 20:02:03,513:AdministratorFacade:23888:2892:INFO:AdministratorFacade: airline add successfully
+2022-10-03 20:02:03,514:AdministratorFacade:23888:2892:INFO:AdministratorFacade: removing airline by id 3
+2022-10-03 20:02:03,516:AdministratorFacade:23888:2892:INFO:AdministratorFacade: airline deleted successfully
+2022-10-03 20:02:03,517:AdministratorFacade:23888:2892:INFO:AirlineCompanyFacade: checking for airline removal by id 3
+2022-10-03 20:02:03,517:AirlineCompanyFacade:23888:2892:INFO:AirlineCompanyFacade: updating airline 3
+2022-10-03 20:02:03,517:AirlineCompanyFacade:23888:2892:INFO:AirlineCompanyFacade: getting airline by id 3
+2022-10-03 20:02:12,391:AdministratorFacade:30716:26268:INFO:AdministratorFacade: getting all customers
+2022-10-03 20:02:12,557:AnonymousFacade:30716:26268:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-03 20:02:12,558:AdministratorFacade:30716:26268:INFO:AdministratorFacade: adding airline by id None
+2022-10-03 20:02:12,560:AdministratorFacade:30716:26268:INFO:AdministratorFacade: airline add successfully
+2022-10-03 20:02:12,721:AdministratorFacade:30716:26268:INFO:AdministratorFacade: adding airline by id None
+2022-10-03 20:02:12,722:AdministratorFacade:30716:26268:INFO:AdministratorFacade: adding airline by id None
+2022-10-03 20:02:12,723:AdministratorFacade:30716:26268:INFO:AdministratorFacade: airline add successfully
+2022-10-03 20:02:12,889:AnonymousFacade:30716:26268:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-03 20:02:12,891:AnonymousFacade:30716:26268:INFO:AnonymousFacade: adding customer by id None
+2022-10-03 20:02:12,893:AnonymousFacade:30716:26268:INFO:AnonymousFacade: customer add successfully
+2022-10-03 20:02:13,224:AdministratorFacade:30716:26268:INFO:AdministratorFacade: adding administrator by id None
+2022-10-03 20:02:13,226:AdministratorFacade:30716:26268:INFO:AdministratorFacade: admin 2 add successfully
+2022-10-03 20:02:13,390:AdministratorFacade:30716:26268:INFO:AdministratorFacade: adding administrator by id None
+2022-10-03 20:02:13,874:AdministratorFacade:30716:26268:INFO:AdministratorFacade: removing administrator by id -2
+2022-10-03 20:02:14,039:AnonymousFacade:30716:26268:INFO:AnonymousFacade: adding customer by id None
+2022-10-03 20:02:14,041:AnonymousFacade:30716:26268:INFO:AnonymousFacade: customer add successfully
+2022-10-03 20:02:14,041:AdministratorFacade:30716:26268:INFO:AdministratorFacade: removing customer by id 2
+2022-10-03 20:02:14,044:AdministratorFacade:30716:26268:INFO:AdministratorFacade: customer Customer.id deleted successfully
+2022-10-03 20:02:14,206:AdministratorFacade:30716:26268:INFO:AdministratorFacade: adding administrator by id None
+2022-10-03 20:02:14,208:AdministratorFacade:30716:26268:INFO:AdministratorFacade: admin 2 add successfully
+2022-10-03 20:02:14,208:AdministratorFacade:30716:26268:INFO:AdministratorFacade: removing administrator by id 2
+2022-10-03 20:02:14,210:AdministratorFacade:30716:26268:INFO:AdministratorFacade: administrator Administrator.id removed successfully
+2022-10-03 20:02:14,372:AdministratorFacade:30716:26268:INFO:AdministratorFacade: adding airline by id None
+2022-10-03 20:02:14,374:AdministratorFacade:30716:26268:INFO:AdministratorFacade: airline add successfully
+2022-10-03 20:02:14,375:AdministratorFacade:30716:26268:INFO:AdministratorFacade: removing airline by id 3
+2022-10-03 20:02:14,376:AdministratorFacade:30716:26268:INFO:AdministratorFacade: airline deleted successfully
+2022-10-03 20:02:14,376:AdministratorFacade:30716:26268:INFO:AirlineCompanyFacade: airline removed
+2022-10-06 14:06:56,569:AdministratorFacade:24228:32556:INFO:AdministratorFacade: getting all customers
+2022-10-06 14:06:56,771:AnonymousFacade:24228:32556:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 14:06:56,773:AdministratorFacade:24228:32556:INFO:AdministratorFacade: adding airline by id None
+2022-10-06 14:06:56,775:AdministratorFacade:24228:32556:INFO:AdministratorFacade: airline add successfully
+2022-10-06 14:06:56,970:AdministratorFacade:24228:32556:INFO:AdministratorFacade: adding airline by id None
+2022-10-06 14:06:56,970:AdministratorFacade:24228:32556:INFO:AdministratorFacade: adding airline by id None
+2022-10-06 14:06:56,972:AdministratorFacade:24228:32556:INFO:AdministratorFacade: airline add successfully
+2022-10-06 14:06:57,168:AnonymousFacade:24228:32556:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 14:06:57,169:AnonymousFacade:24228:32556:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 14:06:57,172:AnonymousFacade:24228:32556:INFO:AnonymousFacade: customer add successfully
+2022-10-06 14:06:57,578:AdministratorFacade:24228:32556:INFO:AdministratorFacade: adding administrator by id None
+2022-10-06 14:06:57,581:AdministratorFacade:24228:32556:INFO:AdministratorFacade: admin 2 add successfully
+2022-10-06 14:06:57,797:AdministratorFacade:24228:32556:INFO:AdministratorFacade: adding administrator by id None
+2022-10-06 14:06:58,412:AdministratorFacade:24228:32556:INFO:AdministratorFacade: removing administrator by id -2
+2022-10-06 14:06:58,619:AnonymousFacade:24228:32556:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 14:06:58,621:AnonymousFacade:24228:32556:INFO:AnonymousFacade: customer add successfully
+2022-10-06 14:06:58,621:AdministratorFacade:24228:32556:INFO:AdministratorFacade: removing customer by id 2
+2022-10-06 14:06:58,625:AdministratorFacade:24228:32556:INFO:AdministratorFacade: customer Customer.id deleted successfully
+2022-10-06 14:06:58,828:AdministratorFacade:24228:32556:INFO:AdministratorFacade: adding administrator by id None
+2022-10-06 14:06:58,831:AdministratorFacade:24228:32556:INFO:AdministratorFacade: admin 2 add successfully
+2022-10-06 14:06:58,831:AdministratorFacade:24228:32556:INFO:AdministratorFacade: removing administrator by id 2
+2022-10-06 14:06:58,834:AdministratorFacade:24228:32556:INFO:AdministratorFacade: administrator Administrator.id removed successfully
+2022-10-06 14:06:59,025:AdministratorFacade:24228:32556:INFO:AdministratorFacade: adding airline by id None
+2022-10-06 14:06:59,027:AdministratorFacade:24228:32556:INFO:AdministratorFacade: airline add successfully
+2022-10-06 14:06:59,028:AdministratorFacade:24228:32556:INFO:AdministratorFacade: removing airline by id 3
+2022-10-06 14:06:59,030:AdministratorFacade:24228:32556:INFO:AdministratorFacade: airline deleted successfully
+2022-10-06 14:06:59,030:AdministratorFacade:24228:32556:INFO:AirlineCompanyFacade: airline removed
+2022-10-06 14:07:03,091:AnonymousFacade:12736:31156:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 14:07:03,092:AnonymousFacade:12736:31156:ERROR:User: [id=5, user_name=roy_admin1, password=Aa1222, email=duv, user_role=1]
+2022-10-06 14:07:03,093:AnonymousFacade:12736:31156:ERROR:User: [id=5, user_name=roy_admin1, password=Aa1222, email=duv, user_role=1]
+2022-10-06 14:07:03,093:AnonymousFacade:12736:31156:INFO:LoginToken[id_=5, name="roy_admin1", role="Administrator"] logged in to the system.
+2022-10-06 14:07:03,300:AirlineCompanyFacade:12736:31156:INFO:AirlineCompanyFacade: updating airline 1
+2022-10-06 14:07:03,301:AirlineCompanyFacade:12736:31156:INFO:AirlineCompanyFacade: getting airline by id 1
+2022-10-06 14:07:03,510:AdministratorFacade:12736:31156:INFO:AdministratorFacade: adding airline by id None
+2022-10-06 14:07:03,512:AdministratorFacade:12736:31156:INFO:AdministratorFacade: airline add successfully
+2022-10-06 14:07:03,513:AirlineCompanyFacade:12736:31156:INFO:AirlineCompanyFacade: adding Flight: [id=5, airline_company_id=3, origin_country_id=3, destination_country_id=2, departure_time=2022-03-21 00:00:00, landing_time=2022-07-08 00:00:00, remaining_tickets=9]
+2022-10-06 14:07:03,517:AirlineCompanyFacade:12736:31156:INFO:AirlineCompanyFacade: adding flight 5 successes
+2022-10-06 14:07:03,517:AirlineCompanyFacade:12736:31156:INFO:AirlineCompanyFacade: updating flight
+2022-10-06 14:07:03,520:AirlineCompanyFacade:12736:31156:INFO:AirlineCompanyFacade: updating flight by id
+2022-10-06 14:07:03,723:AdministratorFacade:12736:31156:INFO:AdministratorFacade: adding airline by id None
+2022-10-06 14:07:03,726:AdministratorFacade:12736:31156:INFO:AdministratorFacade: airline add successfully
+2022-10-06 14:07:03,727:AirlineCompanyFacade:12736:31156:INFO:AirlineCompanyFacade: updating airline 3
+2022-10-06 14:07:03,727:AirlineCompanyFacade:12736:31156:INFO:AirlineCompanyFacade: getting airline by id 3
+2022-10-06 14:07:03,728:AirlineCompanyFacade:12736:31156:ERROR:AirlineCompanyFacade: could not update air cause negative country id
+2022-10-06 14:07:03,929:AirlineCompanyFacade:12736:31156:INFO:AirlineCompanyFacade: removing flight by id None
+2022-10-06 14:07:03,932:AirlineCompanyFacade:12736:31156:INFO:AirlineCompanyFacade: checking for flight removal by id None
+2022-10-06 14:07:03,932:AirlineCompanyFacade:12736:31156:INFO:AirlineCompanyFacade: updating flight
+2022-10-06 14:07:04,138:AdministratorFacade:12736:31156:INFO:AdministratorFacade: adding airline by id None
+2022-10-06 14:07:04,141:AdministratorFacade:12736:31156:INFO:AdministratorFacade: airline add successfully
+2022-10-06 14:07:04,143:AirlineCompanyFacade:12736:31156:INFO:AirlineCompanyFacade: updating airline 3
+2022-10-06 14:07:04,143:AirlineCompanyFacade:12736:31156:INFO:AirlineCompanyFacade: getting airline by id 3
+2022-10-06 14:07:04,144:AirlineCompanyFacade:12736:31156:ERROR:AirlineCompanyFacade: could not update air cause negative user id
+2022-10-06 14:07:04,349:AirlineCompanyFacade:12736:31156:INFO:AirlineCompanyFacade: updating flight
+2022-10-06 14:07:04,555:AdministratorFacade:12736:31156:INFO:AdministratorFacade: adding airline by id None
+2022-10-06 14:07:04,558:AdministratorFacade:12736:31156:INFO:AdministratorFacade: airline add successfully
+2022-10-06 14:07:04,559:AdministratorFacade:12736:31156:INFO:AdministratorFacade: removing airline by id 3
+2022-10-06 14:07:04,562:AdministratorFacade:12736:31156:INFO:AdministratorFacade: airline deleted successfully
+2022-10-06 14:07:04,563:AdministratorFacade:12736:31156:INFO:AirlineCompanyFacade: checking for airline removal by id 3
+2022-10-06 14:07:04,563:AirlineCompanyFacade:12736:31156:INFO:AirlineCompanyFacade: updating airline 3
+2022-10-06 14:07:04,563:AirlineCompanyFacade:12736:31156:INFO:AirlineCompanyFacade: getting airline by id 3
+2022-10-06 14:07:09,508:AnonymousFacade:29424:20376:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 14:07:09,509:AnonymousFacade:29424:20376:ERROR:User: [id=5, user_name=roy_1212, password=6555, email=duv, user_role=3]
+2022-10-06 14:07:09,510:AnonymousFacade:29424:20376:ERROR:User: [id=5, user_name=roy_1212, password=6555, email=duv, user_role=3]
+2022-10-06 14:07:09,510:AnonymousFacade:29424:20376:INFO:LoginToken[id_=5, name="roy_1212", role="AirlineCompany"] logged in to the system.
+2022-10-06 14:07:09,736:AnonymousFacade:29424:20376:ERROR:None
+2022-10-06 14:07:09,944:AnonymousFacade:29424:20376:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 14:07:09,945:AnonymousFacade:29424:20376:ERROR:User: [id=5, user_name=roy, password=6555, email=duv, user_role=1]
+2022-10-06 14:07:09,946:AnonymousFacade:29424:20376:ERROR:User: [id=5, user_name=roy, password=6555, email=duv, user_role=1]
+2022-10-06 14:07:09,946:AnonymousFacade:29424:20376:INFO:Wrong username roy or password 65224 has been entered to the login function.
+2022-10-06 14:07:10,153:AnonymousFacade:29424:20376:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 14:07:10,361:AnonymousFacade:29424:20376:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 14:07:10,362:AnonymousFacade:29424:20376:ERROR:AnonymousFacade: UserName already exist!
+2022-10-06 14:07:54,470:AnonymousFacade:30500:19708:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 14:07:54,470:AnonymousFacade:30500:19708:INFO:AnonymousFacade: adding user by id User: [id=None, user_name=customerTest, password=121212, email=email, user_role=2]
+2022-10-06 14:07:54,476:AnonymousFacade:30500:19708:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 14:07:54,476:AnonymousFacade:30500:19708:INFO:AnonymousFacade: adding customer by id Customer: [id=None, first_name=roy, last_name=duvdev, address=tel aviv, phone_no=235, credit_card_no=152, user_id=76]
+2022-10-06 14:07:54,480:AnonymousFacade:30500:19708:INFO:AnonymousFacade: customer add successfully
+2022-10-06 14:07:54,480:CustomerFacade:30500:19708:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=76]
+2022-10-06 17:08:30,484:AnonymousFacade:17760:30896:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:08:30,485:AnonymousFacade:17760:30896:ERROR:User: [id=5, user_name=roy_admin1, password=Aa1222, email=duv, user_role=1]
+2022-10-06 17:08:30,485:AnonymousFacade:17760:30896:ERROR:User: [id=5, user_name=roy_admin1, password=Aa1222, email=duv, user_role=1]
+2022-10-06 17:08:30,485:AnonymousFacade:17760:30896:INFO:LoginToken[id_=5, name="roy_admin1", role="Administrator"] logged in to the system.
+2022-10-06 17:08:30,661:AirlineCompanyFacade:17760:30896:INFO:AirlineCompanyFacade: updating airline 1
+2022-10-06 17:08:30,661:AirlineCompanyFacade:17760:30896:INFO:AirlineCompanyFacade: getting airline by id 1
+2022-10-06 17:08:30,842:AdministratorFacade:17760:30896:INFO:AdministratorFacade: adding airline by id None
+2022-10-06 17:08:30,844:AdministratorFacade:17760:30896:INFO:AdministratorFacade: airline add successfully
+2022-10-06 17:08:30,845:AirlineCompanyFacade:17760:30896:INFO:AirlineCompanyFacade: adding Flight: [id=5, airline_company_id=3, origin_country_id=3, destination_country_id=2, departure_time=2022-03-21 00:00:00, landing_time=2022-07-08 00:00:00, remaining_tickets=9]
+2022-10-06 17:08:30,848:AirlineCompanyFacade:17760:30896:INFO:AirlineCompanyFacade: adding flight 5 successes
+2022-10-06 17:08:30,848:AirlineCompanyFacade:17760:30896:INFO:AirlineCompanyFacade: updating flight
+2022-10-06 17:08:30,852:AirlineCompanyFacade:17760:30896:INFO:AirlineCompanyFacade: updating flight by id
+2022-10-06 17:08:31,022:AdministratorFacade:17760:30896:INFO:AdministratorFacade: adding airline by id None
+2022-10-06 17:08:31,024:AdministratorFacade:17760:30896:INFO:AdministratorFacade: airline add successfully
+2022-10-06 17:08:31,025:AirlineCompanyFacade:17760:30896:INFO:AirlineCompanyFacade: updating airline 3
+2022-10-06 17:08:31,025:AirlineCompanyFacade:17760:30896:INFO:AirlineCompanyFacade: getting airline by id 3
+2022-10-06 17:08:31,026:AirlineCompanyFacade:17760:30896:ERROR:AirlineCompanyFacade: could not update air cause negative country id
+2022-10-06 17:08:31,184:AirlineCompanyFacade:17760:30896:INFO:AirlineCompanyFacade: removing flight by id None
+2022-10-06 17:08:31,186:AirlineCompanyFacade:17760:30896:INFO:AirlineCompanyFacade: checking for flight removal by id None
+2022-10-06 17:08:31,186:AirlineCompanyFacade:17760:30896:INFO:AirlineCompanyFacade: updating flight
+2022-10-06 17:08:31,351:AdministratorFacade:17760:30896:INFO:AdministratorFacade: adding airline by id None
+2022-10-06 17:08:31,353:AdministratorFacade:17760:30896:INFO:AdministratorFacade: airline add successfully
+2022-10-06 17:08:31,354:AirlineCompanyFacade:17760:30896:INFO:AirlineCompanyFacade: updating airline 3
+2022-10-06 17:08:31,354:AirlineCompanyFacade:17760:30896:INFO:AirlineCompanyFacade: getting airline by id 3
+2022-10-06 17:08:31,355:AirlineCompanyFacade:17760:30896:ERROR:AirlineCompanyFacade: could not update air cause negative user id
+2022-10-06 17:08:31,518:AirlineCompanyFacade:17760:30896:INFO:AirlineCompanyFacade: updating flight
+2022-10-06 17:08:31,677:AdministratorFacade:17760:30896:INFO:AdministratorFacade: adding airline by id None
+2022-10-06 17:08:31,679:AdministratorFacade:17760:30896:INFO:AdministratorFacade: airline add successfully
+2022-10-06 17:08:31,680:AdministratorFacade:17760:30896:INFO:AdministratorFacade: removing airline by id 3
+2022-10-06 17:08:31,682:AdministratorFacade:17760:30896:INFO:AdministratorFacade: airline deleted successfully
+2022-10-06 17:08:31,683:AdministratorFacade:17760:30896:INFO:AirlineCompanyFacade: checking for airline removal by id 3
+2022-10-06 17:08:31,683:AirlineCompanyFacade:17760:30896:INFO:AirlineCompanyFacade: updating airline 3
+2022-10-06 17:08:31,683:AirlineCompanyFacade:17760:30896:INFO:AirlineCompanyFacade: getting airline by id 3
+2022-10-06 17:08:37,460:AnonymousFacade:18344:26748:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:08:37,461:AnonymousFacade:18344:26748:ERROR:User: [id=5, user_name=roy_1212, password=6555, email=duv, user_role=3]
+2022-10-06 17:08:37,462:AnonymousFacade:18344:26748:ERROR:User: [id=5, user_name=roy_1212, password=6555, email=duv, user_role=3]
+2022-10-06 17:08:37,462:AnonymousFacade:18344:26748:INFO:LoginToken[id_=5, name="roy_1212", role="AirlineCompany"] logged in to the system.
+2022-10-06 17:08:37,627:AnonymousFacade:18344:26748:ERROR:None
+2022-10-06 17:08:37,796:AnonymousFacade:18344:26748:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:08:37,797:AnonymousFacade:18344:26748:ERROR:User: [id=5, user_name=roy, password=6555, email=duv, user_role=1]
+2022-10-06 17:08:37,797:AnonymousFacade:18344:26748:ERROR:User: [id=5, user_name=roy, password=6555, email=duv, user_role=1]
+2022-10-06 17:08:37,797:AnonymousFacade:18344:26748:INFO:Wrong username roy or password 65224 has been entered to the login function.
+2022-10-06 17:08:37,958:AnonymousFacade:18344:26748:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:08:38,120:AnonymousFacade:18344:26748:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:08:38,121:AnonymousFacade:18344:26748:ERROR:AnonymousFacade: UserName already exist!
+2022-10-06 17:08:43,232:AdministratorFacade:27744:3632:INFO:AdministratorFacade: getting all customers
+2022-10-06 17:08:43,418:AnonymousFacade:27744:3632:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:08:43,420:AdministratorFacade:27744:3632:INFO:AdministratorFacade: adding airline by id None
+2022-10-06 17:08:43,422:AdministratorFacade:27744:3632:INFO:AdministratorFacade: airline add successfully
+2022-10-06 17:08:43,603:AdministratorFacade:27744:3632:INFO:AdministratorFacade: adding airline by id None
+2022-10-06 17:08:43,603:AdministratorFacade:27744:3632:INFO:AdministratorFacade: adding airline by id None
+2022-10-06 17:08:43,606:AdministratorFacade:27744:3632:INFO:AdministratorFacade: airline add successfully
+2022-10-06 17:08:43,787:AnonymousFacade:27744:3632:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:08:43,788:AnonymousFacade:27744:3632:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:08:43,789:AnonymousFacade:27744:3632:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:08:44,152:AdministratorFacade:27744:3632:INFO:AdministratorFacade: adding administrator by id None
+2022-10-06 17:08:44,154:AdministratorFacade:27744:3632:INFO:AdministratorFacade: admin 2 add successfully
+2022-10-06 17:08:44,341:AdministratorFacade:27744:3632:INFO:AdministratorFacade: adding administrator by id None
+2022-10-06 17:08:44,904:AdministratorFacade:27744:3632:INFO:AdministratorFacade: removing administrator by id -2
+2022-10-06 17:08:45,088:AnonymousFacade:27744:3632:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:08:45,090:AnonymousFacade:27744:3632:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:08:45,090:AdministratorFacade:27744:3632:INFO:AdministratorFacade: removing customer by id 2
+2022-10-06 17:08:45,093:AdministratorFacade:27744:3632:INFO:AdministratorFacade: customer Customer.id deleted successfully
+2022-10-06 17:08:45,275:AdministratorFacade:27744:3632:INFO:AdministratorFacade: adding administrator by id None
+2022-10-06 17:08:45,277:AdministratorFacade:27744:3632:INFO:AdministratorFacade: admin 2 add successfully
+2022-10-06 17:08:45,277:AdministratorFacade:27744:3632:INFO:AdministratorFacade: removing administrator by id 2
+2022-10-06 17:08:45,278:AdministratorFacade:27744:3632:INFO:AdministratorFacade: administrator Administrator.id removed successfully
+2022-10-06 17:08:45,461:AdministratorFacade:27744:3632:INFO:AdministratorFacade: adding airline by id None
+2022-10-06 17:08:45,462:AdministratorFacade:27744:3632:INFO:AdministratorFacade: airline add successfully
+2022-10-06 17:08:45,463:AdministratorFacade:27744:3632:INFO:AdministratorFacade: removing airline by id 3
+2022-10-06 17:08:45,464:AdministratorFacade:27744:3632:INFO:AdministratorFacade: airline deleted successfully
+2022-10-06 17:08:45,464:AdministratorFacade:27744:3632:INFO:AirlineCompanyFacade: airline removed
+2022-10-06 17:08:52,955:AnonymousFacade:32132:30440:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:08:52,955:AnonymousFacade:32132:30440:INFO:AnonymousFacade: adding user by id User: [id=None, user_name=customerTest, password=121212, email=email, user_role=2]
+2022-10-06 17:08:52,959:AnonymousFacade:32132:30440:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:08:52,959:AnonymousFacade:32132:30440:INFO:AnonymousFacade: adding customer by id Customer: [id=None, first_name=roy, last_name=duvdev, address=tel aviv, phone_no=235, credit_card_no=152, user_id=76]
+2022-10-06 17:08:52,961:AnonymousFacade:32132:30440:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:08:52,962:CustomerFacade:32132:30440:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=76]
+2022-10-06 17:09:06,117:AnonymousFacade:29700:20460:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:09:06,117:AnonymousFacade:29700:20460:INFO:AnonymousFacade: adding user by id User: [id=None, user_name=customerTest, password=121212, email=email, user_role=2]
+2022-10-06 17:09:06,120:AnonymousFacade:29700:20460:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:09:06,120:AnonymousFacade:29700:20460:INFO:AnonymousFacade: adding customer by id Customer: [id=None, first_name=roy, last_name=duvdev, address=tel aviv, phone_no=235, credit_card_no=152, user_id=76]
+2022-10-06 17:09:06,123:AnonymousFacade:29700:20460:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:09:06,123:CustomerFacade:29700:20460:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=76]
+2022-10-06 17:09:28,737:AnonymousFacade:32244:33160:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:09:28,737:AnonymousFacade:32244:33160:INFO:AnonymousFacade: adding user by id User: [id=None, user_name=customerTest, password=121212, email=email, user_role=2]
+2022-10-06 17:09:28,747:AnonymousFacade:32244:33160:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:09:28,747:AnonymousFacade:32244:33160:INFO:AnonymousFacade: adding customer by id Customer: [id=None, first_name=roy, last_name=duvdev, address=tel aviv, phone_no=235, credit_card_no=152, user_id=76]
+2022-10-06 17:09:28,754:AnonymousFacade:32244:33160:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:10:02,014:CustomerFacade:32244:33160:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=76]
+2022-10-06 17:11:44,022:AnonymousFacade:34248:33008:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:11:47,271:AnonymousFacade:34248:33008:INFO:AnonymousFacade: adding user by id User: [id=None, user_name=customerTest, password=121212, email=email, user_role=2]
+2022-10-06 17:11:47,532:AnonymousFacade:34248:33008:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:11:47,957:AnonymousFacade:34248:33008:INFO:AnonymousFacade: adding customer by id Customer: [id=None, first_name=royy, last_name=duvdev, address=tel aviv, phone_no=235, credit_card_no=152, user_id=76]
+2022-10-06 17:11:49,577:AnonymousFacade:34248:33008:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:12:09,318:CustomerFacade:34248:33008:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=76]
+2022-10-06 17:12:28,966:AnonymousFacade:30092:33596:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:12:28,966:AnonymousFacade:30092:33596:INFO:AnonymousFacade: adding user by id User: [id=None, user_name=customerTest, password=121212, email=email, user_role=2]
+2022-10-06 17:12:28,974:AnonymousFacade:30092:33596:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:12:28,975:AnonymousFacade:30092:33596:INFO:AnonymousFacade: adding customer by id Customer: [id=None, first_name=royy, last_name=duvdev, address=tel aviv, phone_no=235, credit_card_no=152, user_id=76]
+2022-10-06 17:12:28,985:AnonymousFacade:30092:33596:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:12:43,467:CustomerFacade:30092:33596:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=76]
+2022-10-06 17:13:17,332:AnonymousFacade:32644:34084:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:13:17,333:AnonymousFacade:32644:34084:INFO:AnonymousFacade: adding user by id User: [id=None, user_name=customerTest, password=121212, email=email, user_role=2]
+2022-10-06 17:13:17,340:AnonymousFacade:32644:34084:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:13:17,340:AnonymousFacade:32644:34084:INFO:AnonymousFacade: adding customer by id Customer: [id=None, first_name=royy, last_name=duvdev, address=tel aviv, phone_no=235, credit_card_no=152, user_id=76]
+2022-10-06 17:13:17,348:AnonymousFacade:32644:34084:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:13:22,727:CustomerFacade:32644:34084:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=76]
+2022-10-06 17:14:17,064:AnonymousFacade:27488:9328:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:14:17,064:AnonymousFacade:27488:9328:INFO:AnonymousFacade: adding user by id User: [id=None, user_name=customerTest, password=121212, email=email, user_role=2]
+2022-10-06 17:14:17,071:AnonymousFacade:27488:9328:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:14:17,071:AnonymousFacade:27488:9328:INFO:AnonymousFacade: adding customer by id Customer: [id=None, first_name=royy, last_name=duvdev, address=tel aviv, phone_no=235, credit_card_no=152, user_id=76]
+2022-10-06 17:14:17,078:AnonymousFacade:27488:9328:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:14:29,353:CustomerFacade:27488:9328:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=76]
+2022-10-06 17:14:51,156:CustomerFacade:27488:9328:ERROR:CustomerFacade: customer could not be updated
+2022-10-06 17:15:01,286:AnonymousFacade:34636:31584:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:15:01,286:AnonymousFacade:34636:31584:INFO:AnonymousFacade: adding user by id User: [id=None, user_name=customerTest, password=121212, email=email, user_role=2]
+2022-10-06 17:15:01,300:AnonymousFacade:34636:31584:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:15:01,301:AnonymousFacade:34636:31584:INFO:AnonymousFacade: adding customer by id Customer: [id=None, first_name=royy, last_name=duvdev, address=tel aviv, phone_no=235, credit_card_no=152, user_id=76]
+2022-10-06 17:15:01,309:AnonymousFacade:34636:31584:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:15:04,206:CustomerFacade:34636:31584:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=76]
+2022-10-06 17:16:01,833:CustomerFacade:34636:31584:ERROR:CustomerFacade: customer could not be updated
+2022-10-06 17:18:30,226:AnonymousFacade:34688:34484:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:18:30,226:AnonymousFacade:34688:34484:INFO:AnonymousFacade: adding user by id User: [id=None, user_name=customerTest, password=121212, email=email, user_role=2]
+2022-10-06 17:18:30,237:AnonymousFacade:34688:34484:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:18:30,237:AnonymousFacade:34688:34484:INFO:AnonymousFacade: adding customer by id Customer: [id=None, first_name=royy, last_name=duvdev, address=tel aviv, phone_no=235, credit_card_no=152, user_id=76]
+2022-10-06 17:18:30,248:AnonymousFacade:34688:34484:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:18:43,516:CustomerFacade:34688:34484:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=76]
+2022-10-06 17:23:28,630:AnonymousFacade:980:13416:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:23:28,631:AnonymousFacade:980:13416:ERROR:User: [id=5, user_name=roy_admin1, password=Aa1222, email=duv, user_role=1]
+2022-10-06 17:23:28,631:AnonymousFacade:980:13416:ERROR:User: [id=5, user_name=roy_admin1, password=Aa1222, email=duv, user_role=1]
+2022-10-06 17:23:28,631:AnonymousFacade:980:13416:INFO:LoginToken[id_=5, name="roy_admin1", role="Administrator"] logged in to the system.
+2022-10-06 17:23:28,796:AirlineCompanyFacade:980:13416:INFO:AirlineCompanyFacade: updating airline 1
+2022-10-06 17:23:28,796:AirlineCompanyFacade:980:13416:INFO:AirlineCompanyFacade: getting airline by id 1
+2022-10-06 17:23:28,965:AdministratorFacade:980:13416:INFO:AdministratorFacade: adding airline by id None
+2022-10-06 17:23:28,966:AdministratorFacade:980:13416:INFO:AdministratorFacade: airline add successfully
+2022-10-06 17:23:28,967:AirlineCompanyFacade:980:13416:INFO:AirlineCompanyFacade: adding Flight: [id=5, airline_company_id=3, origin_country_id=3, destination_country_id=2, departure_time=2022-03-21 00:00:00, landing_time=2022-07-08 00:00:00, remaining_tickets=9]
+2022-10-06 17:23:28,971:AirlineCompanyFacade:980:13416:INFO:AirlineCompanyFacade: adding flight 5 successes
+2022-10-06 17:23:28,971:AirlineCompanyFacade:980:13416:INFO:AirlineCompanyFacade: updating flight
+2022-10-06 17:23:28,973:AirlineCompanyFacade:980:13416:INFO:AirlineCompanyFacade: updating flight by id
+2022-10-06 17:23:29,134:AdministratorFacade:980:13416:INFO:AdministratorFacade: adding airline by id None
+2022-10-06 17:23:29,136:AdministratorFacade:980:13416:INFO:AdministratorFacade: airline add successfully
+2022-10-06 17:23:29,137:AirlineCompanyFacade:980:13416:INFO:AirlineCompanyFacade: updating airline 3
+2022-10-06 17:23:29,137:AirlineCompanyFacade:980:13416:INFO:AirlineCompanyFacade: getting airline by id 3
+2022-10-06 17:23:29,138:AirlineCompanyFacade:980:13416:ERROR:AirlineCompanyFacade: could not update air cause negative country id
+2022-10-06 17:23:29,301:AirlineCompanyFacade:980:13416:INFO:AirlineCompanyFacade: removing flight by id None
+2022-10-06 17:23:29,303:AirlineCompanyFacade:980:13416:INFO:AirlineCompanyFacade: checking for flight removal by id None
+2022-10-06 17:23:29,303:AirlineCompanyFacade:980:13416:INFO:AirlineCompanyFacade: updating flight
+2022-10-06 17:23:29,466:AdministratorFacade:980:13416:INFO:AdministratorFacade: adding airline by id None
+2022-10-06 17:23:29,467:AdministratorFacade:980:13416:INFO:AdministratorFacade: airline add successfully
+2022-10-06 17:23:29,468:AirlineCompanyFacade:980:13416:INFO:AirlineCompanyFacade: updating airline 3
+2022-10-06 17:23:29,468:AirlineCompanyFacade:980:13416:INFO:AirlineCompanyFacade: getting airline by id 3
+2022-10-06 17:23:29,469:AirlineCompanyFacade:980:13416:ERROR:AirlineCompanyFacade: could not update air cause negative user id
+2022-10-06 17:23:29,634:AirlineCompanyFacade:980:13416:INFO:AirlineCompanyFacade: updating flight
+2022-10-06 17:23:29,799:AdministratorFacade:980:13416:INFO:AdministratorFacade: adding airline by id None
+2022-10-06 17:23:29,801:AdministratorFacade:980:13416:INFO:AdministratorFacade: airline add successfully
+2022-10-06 17:23:29,802:AdministratorFacade:980:13416:INFO:AdministratorFacade: removing airline by id 3
+2022-10-06 17:23:29,804:AdministratorFacade:980:13416:INFO:AdministratorFacade: airline deleted successfully
+2022-10-06 17:23:29,805:AdministratorFacade:980:13416:INFO:AirlineCompanyFacade: checking for airline removal by id 3
+2022-10-06 17:23:29,805:AirlineCompanyFacade:980:13416:INFO:AirlineCompanyFacade: updating airline 3
+2022-10-06 17:23:29,805:AirlineCompanyFacade:980:13416:INFO:AirlineCompanyFacade: getting airline by id 3
+2022-10-06 17:23:42,934:AnonymousFacade:29288:13628:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:23:42,934:AnonymousFacade:29288:13628:INFO:AnonymousFacade: adding user by id User: [id=None, user_name=customerTest, password=121212, email=email, user_role=2]
+2022-10-06 17:23:42,942:AnonymousFacade:29288:13628:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:23:42,942:AnonymousFacade:29288:13628:INFO:AnonymousFacade: adding customer by id Customer: [id=None, first_name=royy, last_name=duvdev, address=tel aviv, phone_no=235, credit_card_no=152, user_id=76]
+2022-10-06 17:23:42,948:AnonymousFacade:29288:13628:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:23:48,586:CustomerFacade:29288:13628:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=76]
+2022-10-06 17:23:48,594:CustomerFacade:29288:13628:ERROR:CustomerFacade: customer could not be updated
+2022-10-06 17:27:17,577:AnonymousFacade:28956:13604:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:27:17,580:AnonymousFacade:28956:13604:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:27:17,584:AnonymousFacade:28956:13604:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:27:30,514:CustomerFacade:28956:13604:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=5]
+2022-10-06 17:29:54,508:AnonymousFacade:1880:32888:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:29:54,509:AnonymousFacade:1880:32888:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:29:54,511:AnonymousFacade:1880:32888:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:29:54,513:CustomerFacade:1880:32888:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=5]
+2022-10-06 17:29:54,691:AnonymousFacade:1880:32888:ERROR:AnonymousFacade: An Error Occurred!
+2022-10-06 17:30:34,295:AnonymousFacade:2512:33452:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:30:34,296:AnonymousFacade:2512:33452:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:30:34,298:AnonymousFacade:2512:33452:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:30:34,300:CustomerFacade:2512:33452:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=5]
+2022-10-06 17:30:34,471:AnonymousFacade:2512:33452:ERROR:AnonymousFacade: An Error Occurred!
+2022-10-06 17:30:47,940:AnonymousFacade:33672:12216:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:30:47,944:AnonymousFacade:33672:12216:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:30:47,949:AnonymousFacade:33672:12216:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:30:59,457:CustomerFacade:33672:12216:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=5]
+2022-10-06 17:32:14,241:AnonymousFacade:34240:31036:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:32:14,242:AnonymousFacade:34240:31036:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:32:14,244:AnonymousFacade:34240:31036:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:32:14,245:CustomerFacade:34240:31036:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=5]
+2022-10-06 17:33:34,905:AnonymousFacade:23608:20976:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:33:34,906:AnonymousFacade:23608:20976:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:33:34,908:AnonymousFacade:23608:20976:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:33:34,909:CustomerFacade:23608:20976:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=5]
+2022-10-06 17:33:53,797:AnonymousFacade:25004:29892:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:33:53,799:AnonymousFacade:25004:29892:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:33:53,800:AnonymousFacade:25004:29892:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:33:53,802:CustomerFacade:25004:29892:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=5]
+2022-10-06 17:33:53,968:CustomerFacade:25004:29892:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy12121, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=1]
+2022-10-06 17:35:49,254:AnonymousFacade:33548:34088:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:35:49,256:AnonymousFacade:33548:34088:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:35:49,257:AnonymousFacade:33548:34088:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:35:49,259:CustomerFacade:33548:34088:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=5]
+2022-10-06 17:35:49,427:CustomerFacade:33548:34088:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy12121, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=1]
+2022-10-06 17:36:24,248:AnonymousFacade:23864:30448:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:36:24,250:AnonymousFacade:23864:30448:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:36:24,251:AnonymousFacade:23864:30448:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:36:24,253:CustomerFacade:23864:30448:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=5]
+2022-10-06 17:36:24,429:CustomerFacade:23864:30448:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy12121, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=1]
+2022-10-06 17:36:24,616:CustomerFacade:23864:30448:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=-1]
+2022-10-06 17:37:53,019:AnonymousFacade:34600:7032:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:37:53,021:AnonymousFacade:34600:7032:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:37:53,022:AnonymousFacade:34600:7032:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:37:53,024:CustomerFacade:34600:7032:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=5]
+2022-10-06 17:37:53,193:CustomerFacade:34600:7032:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy12121, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=1]
+2022-10-06 17:37:53,357:CustomerFacade:34600:7032:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=-1]
+2022-10-06 17:42:04,311:AnonymousFacade:34300:28316:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:42:04,313:AnonymousFacade:34300:28316:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:42:04,315:AnonymousFacade:34300:28316:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:42:04,316:CustomerFacade:34300:28316:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=5]
+2022-10-06 17:42:04,489:CustomerFacade:34300:28316:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy12121, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=1]
+2022-10-06 17:42:04,656:CustomerFacade:34300:28316:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=-1]
+2022-10-06 17:42:13,318:AnonymousFacade:34148:31572:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:42:13,319:AnonymousFacade:34148:31572:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:42:13,322:AnonymousFacade:34148:31572:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:42:13,323:CustomerFacade:34148:31572:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=5]
+2022-10-06 17:42:13,496:CustomerFacade:34148:31572:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy12121, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=1]
+2022-10-06 17:42:13,670:CustomerFacade:34148:31572:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=-1]
+2022-10-06 17:42:13,837:AnonymousFacade:34148:31572:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:42:13,839:AnonymousFacade:34148:31572:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:43:20,266:AnonymousFacade:34072:27700:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:43:20,267:AnonymousFacade:34072:27700:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:43:20,269:AnonymousFacade:34072:27700:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:43:20,270:CustomerFacade:34072:27700:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=5]
+2022-10-06 17:43:20,436:CustomerFacade:34072:27700:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy12121, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=1]
+2022-10-06 17:43:20,601:CustomerFacade:34072:27700:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=-1]
+2022-10-06 17:43:20,765:AnonymousFacade:34072:27700:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:43:20,767:AnonymousFacade:34072:27700:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:43:20,768:AirlineCompanyFacade:34072:27700:INFO:AirlineCompanyFacade: adding Flight: [id=None, airline_company_id=1, origin_country_id=israel, destination_country_id=3, departure_time=2, landing_time=7, remaining_tickets=6]
+2022-10-06 17:43:20,770:AirlineCompanyFacade:34072:27700:ERROR:AirlineCompanyFacade: adding flight None to the db failed
+2022-10-06 17:46:21,916:AnonymousFacade:25432:356:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:46:21,917:AnonymousFacade:25432:356:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:46:21,919:AnonymousFacade:25432:356:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:46:21,920:CustomerFacade:25432:356:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=5]
+2022-10-06 17:46:22,094:CustomerFacade:25432:356:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy12121, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=1]
+2022-10-06 17:46:22,263:CustomerFacade:25432:356:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=-1]
+2022-10-06 17:46:22,430:AnonymousFacade:25432:356:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:46:22,432:AnonymousFacade:25432:356:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:46:22,433:AirlineCompanyFacade:25432:356:INFO:AirlineCompanyFacade: adding Flight: [id=None, airline_company_id=1, origin_country_id=israel, destination_country_id=3, departure_time=2, landing_time=7, remaining_tickets=6]
+2022-10-06 17:46:22,436:AirlineCompanyFacade:25432:356:ERROR:AirlineCompanyFacade: adding flight None to the db failed
+2022-10-06 17:46:58,028:AnonymousFacade:22164:33472:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:46:58,029:AnonymousFacade:22164:33472:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:46:58,031:AnonymousFacade:22164:33472:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:46:58,032:CustomerFacade:22164:33472:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=5]
+2022-10-06 17:46:58,209:CustomerFacade:22164:33472:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy12121, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=1]
+2022-10-06 17:46:58,377:CustomerFacade:22164:33472:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=-1]
+2022-10-06 17:46:58,544:AnonymousFacade:22164:33472:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:46:58,546:AnonymousFacade:22164:33472:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:46:58,547:AirlineCompanyFacade:22164:33472:INFO:AirlineCompanyFacade: adding Flight: [id=None, airline_company_id=1, origin_country_id=1, destination_country_id=3, departure_time=2, landing_time=7, remaining_tickets=6]
+2022-10-06 17:46:58,549:AirlineCompanyFacade:22164:33472:ERROR:AirlineCompanyFacade: adding flight None to the db failed
+2022-10-06 17:50:24,188:AnonymousFacade:30272:20516:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:50:24,189:AnonymousFacade:30272:20516:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:50:24,191:AnonymousFacade:30272:20516:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:50:24,193:CustomerFacade:30272:20516:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=5]
+2022-10-06 17:50:24,366:CustomerFacade:30272:20516:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy12121, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=1]
+2022-10-06 17:50:24,534:CustomerFacade:30272:20516:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=-1]
+2022-10-06 17:50:24,704:AnonymousFacade:30272:20516:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:50:24,706:AnonymousFacade:30272:20516:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:50:24,707:CustomerFacade:30272:20516:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=2]
+2022-10-06 17:50:24,707:CustomerFacade:30272:20516:ERROR:CustomerFacade: customer id is not yours
+2022-10-06 17:50:24,707:CustomerFacade:30272:20516:INFO:CustomerFacade: getting tickets by customer id 2
+2022-10-06 17:50:57,041:AnonymousFacade:31064:2928:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:50:57,042:AnonymousFacade:31064:2928:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:50:57,044:AnonymousFacade:31064:2928:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:50:57,046:CustomerFacade:31064:2928:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=5]
+2022-10-06 17:50:57,223:CustomerFacade:31064:2928:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy12121, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=1]
+2022-10-06 17:50:57,388:CustomerFacade:31064:2928:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=-1]
+2022-10-06 17:50:57,556:AnonymousFacade:31064:2928:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:50:57,559:AnonymousFacade:31064:2928:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:50:57,560:CustomerFacade:31064:2928:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=2]
+2022-10-06 17:50:57,560:CustomerFacade:31064:2928:ERROR:CustomerFacade: customer id is not yours
+2022-10-06 17:50:57,560:CustomerFacade:31064:2928:INFO:CustomerFacade: getting tickets by customer id 2
+2022-10-06 17:52:04,628:AnonymousFacade:4524:27824:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:52:08,563:AnonymousFacade:4524:27824:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:52:25,249:CustomerFacade:4524:27824:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=2]
+2022-10-06 17:52:37,888:CustomerFacade:4524:27824:ERROR:CustomerFacade: customer id is not yours
+2022-10-06 17:54:17,808:AnonymousFacade:33820:25952:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:54:17,814:AnonymousFacade:33820:25952:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:54:26,129:CustomerFacade:33820:25952:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=2]
+2022-10-06 17:54:33,905:CustomerFacade:33820:25952:INFO:CustomerFacade: adding ticket
+2022-10-06 17:54:39,034:CustomerFacade:33820:25952:INFO:CustomerFacade: ticket add successfully
+2022-10-06 17:54:43,106:CustomerFacade:33820:25952:INFO:CustomerFacade: getting tickets by customer id 2
+2022-10-06 17:55:41,749:AnonymousFacade:24344:25952:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:55:41,755:AnonymousFacade:24344:25952:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:55:44,339:CustomerFacade:24344:25952:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=2]
+2022-10-06 17:55:44,339:CustomerFacade:24344:25952:INFO:CustomerFacade: adding ticket
+2022-10-06 17:55:44,348:CustomerFacade:24344:25952:INFO:CustomerFacade: ticket add successfully
+2022-10-06 17:55:46,958:CustomerFacade:24344:25952:INFO:CustomerFacade: getting tickets by customer id 2
+2022-10-06 17:57:20,492:AnonymousFacade:32680:25020:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:57:20,498:AnonymousFacade:32680:25020:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:57:22,957:CustomerFacade:32680:25020:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=2]
+2022-10-06 17:57:22,957:CustomerFacade:32680:25020:INFO:CustomerFacade: adding ticket
+2022-10-06 17:57:22,965:CustomerFacade:32680:25020:INFO:CustomerFacade: ticket add successfully
+2022-10-06 17:57:25,698:CustomerFacade:32680:25020:INFO:CustomerFacade: getting tickets by customer id 2
+2022-10-06 17:58:52,821:AnonymousFacade:30360:17140:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:58:52,826:AnonymousFacade:30360:17140:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:58:54,081:CustomerFacade:30360:17140:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=2]
+2022-10-06 17:58:54,081:CustomerFacade:30360:17140:INFO:CustomerFacade: adding ticket
+2022-10-06 17:58:54,088:CustomerFacade:30360:17140:INFO:CustomerFacade: ticket add successfully
+2022-10-06 17:58:54,519:CustomerFacade:30360:17140:INFO:CustomerFacade: getting tickets by customer id 2
+2022-10-06 17:59:37,810:AnonymousFacade:24016:21100:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:59:37,811:AnonymousFacade:24016:21100:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:59:37,813:CustomerFacade:24016:21100:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=2]
+2022-10-06 17:59:37,813:CustomerFacade:24016:21100:INFO:CustomerFacade: adding ticket
+2022-10-06 17:59:37,816:CustomerFacade:24016:21100:INFO:CustomerFacade: ticket add successfully
+2022-10-06 17:59:37,816:CustomerFacade:24016:21100:INFO:CustomerFacade: getting tickets by customer id 2
+2022-10-06 17:59:37,989:AnonymousFacade:24016:21100:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 17:59:37,990:AnonymousFacade:24016:21100:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:59:37,992:AnonymousFacade:24016:21100:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:59:37,993:CustomerFacade:24016:21100:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=5]
+2022-10-06 17:59:38,171:CustomerFacade:24016:21100:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy12121, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=1]
+2022-10-06 17:59:38,334:CustomerFacade:24016:21100:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=-1]
+2022-10-06 17:59:38,496:AnonymousFacade:24016:21100:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 17:59:38,498:AnonymousFacade:24016:21100:INFO:AnonymousFacade: customer add successfully
+2022-10-06 17:59:38,499:CustomerFacade:24016:21100:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=2]
+2022-10-06 17:59:38,499:CustomerFacade:24016:21100:INFO:CustomerFacade: adding ticket
+2022-10-06 17:59:38,501:CustomerFacade:24016:21100:INFO:CustomerFacade: ticket add successfully
+2022-10-06 17:59:38,501:CustomerFacade:24016:21100:INFO:CustomerFacade: getting tickets by customer id 2
+2022-10-06 18:10:51,098:AnonymousFacade:30476:34672:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:10:51,100:AnonymousFacade:30476:34672:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:10:51,102:CustomerFacade:30476:34672:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=2]
+2022-10-06 18:10:51,104:CustomerFacade:30476:34672:INFO:CustomerFacade: adding ticket
+2022-10-06 18:10:51,108:CustomerFacade:30476:34672:INFO:CustomerFacade: ticket add successfully
+2022-10-06 18:10:51,108:CustomerFacade:30476:34672:INFO:CustomerFacade: getting tickets by customer id 2
+2022-10-06 18:10:51,295:AnonymousFacade:30476:34672:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 18:10:51,296:AnonymousFacade:30476:34672:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:10:51,298:AnonymousFacade:30476:34672:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:10:51,299:CustomerFacade:30476:34672:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=5]
+2022-10-06 18:10:51,479:CustomerFacade:30476:34672:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy12121, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=1]
+2022-10-06 18:10:51,648:CustomerFacade:30476:34672:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=-1]
+2022-10-06 18:10:51,813:AnonymousFacade:30476:34672:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:10:51,815:AnonymousFacade:30476:34672:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:10:51,816:CustomerFacade:30476:34672:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=2]
+2022-10-06 18:10:51,818:CustomerFacade:30476:34672:INFO:CustomerFacade: adding ticket
+2022-10-06 18:10:51,821:CustomerFacade:30476:34672:INFO:CustomerFacade: ticket add successfully
+2022-10-06 18:10:51,821:CustomerFacade:30476:34672:INFO:CustomerFacade: getting tickets by customer id 2
+2022-10-06 18:11:08,010:AnonymousFacade:30864:20180:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:11:08,012:AnonymousFacade:30864:20180:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:11:08,014:CustomerFacade:30864:20180:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=2]
+2022-10-06 18:11:08,016:CustomerFacade:30864:20180:INFO:CustomerFacade: adding ticket
+2022-10-06 18:11:08,020:CustomerFacade:30864:20180:INFO:CustomerFacade: ticket add successfully
+2022-10-06 18:11:08,020:CustomerFacade:30864:20180:INFO:CustomerFacade: getting tickets by customer id 2
+2022-10-06 18:11:08,209:AnonymousFacade:30864:20180:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 18:11:08,210:AnonymousFacade:30864:20180:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:11:08,212:AnonymousFacade:30864:20180:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:11:08,213:CustomerFacade:30864:20180:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=5]
+2022-10-06 18:11:08,388:CustomerFacade:30864:20180:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy12121, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=1]
+2022-10-06 18:11:08,561:CustomerFacade:30864:20180:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=-1]
+2022-10-06 18:11:08,729:AnonymousFacade:30864:20180:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:11:08,731:AnonymousFacade:30864:20180:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:11:08,732:CustomerFacade:30864:20180:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=2]
+2022-10-06 18:11:08,734:CustomerFacade:30864:20180:INFO:CustomerFacade: adding ticket
+2022-10-06 18:11:08,736:CustomerFacade:30864:20180:INFO:CustomerFacade: ticket add successfully
+2022-10-06 18:11:08,736:CustomerFacade:30864:20180:INFO:CustomerFacade: getting tickets by customer id 2
+2022-10-06 18:11:08,903:CustomerFacade:30864:20180:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=5, customer_id=2]
+2022-10-06 18:12:05,098:AnonymousFacade:27924:5064:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:12:05,100:AnonymousFacade:27924:5064:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:12:05,102:CustomerFacade:27924:5064:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=2]
+2022-10-06 18:12:05,104:CustomerFacade:27924:5064:INFO:CustomerFacade: adding ticket
+2022-10-06 18:12:05,109:CustomerFacade:27924:5064:INFO:CustomerFacade: ticket add successfully
+2022-10-06 18:12:05,109:CustomerFacade:27924:5064:INFO:CustomerFacade: getting tickets by customer id 2
+2022-10-06 18:12:05,289:AnonymousFacade:27924:5064:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 18:12:05,290:AnonymousFacade:27924:5064:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:12:05,292:AnonymousFacade:27924:5064:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:12:05,293:CustomerFacade:27924:5064:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=5]
+2022-10-06 18:12:05,466:CustomerFacade:27924:5064:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy12121, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=1]
+2022-10-06 18:12:05,636:CustomerFacade:27924:5064:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=-1]
+2022-10-06 18:12:05,808:AnonymousFacade:27924:5064:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:12:05,811:AnonymousFacade:27924:5064:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:12:05,812:CustomerFacade:27924:5064:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=2]
+2022-10-06 18:12:05,813:CustomerFacade:27924:5064:INFO:CustomerFacade: adding ticket
+2022-10-06 18:12:05,817:CustomerFacade:27924:5064:INFO:CustomerFacade: ticket add successfully
+2022-10-06 18:12:05,817:CustomerFacade:27924:5064:INFO:CustomerFacade: getting tickets by customer id 2
+2022-10-06 18:12:05,987:CustomerFacade:27924:5064:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=5, customer_id=2]
+2022-10-06 18:12:14,947:AnonymousFacade:22820:27036:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:12:14,949:AnonymousFacade:22820:27036:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:12:14,951:CustomerFacade:22820:27036:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=2]
+2022-10-06 18:12:14,953:CustomerFacade:22820:27036:INFO:CustomerFacade: adding ticket
+2022-10-06 18:12:14,956:CustomerFacade:22820:27036:INFO:CustomerFacade: ticket add successfully
+2022-10-06 18:12:14,956:CustomerFacade:22820:27036:INFO:CustomerFacade: getting tickets by customer id 2
+2022-10-06 18:12:15,134:AnonymousFacade:22820:27036:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 18:12:15,136:AnonymousFacade:22820:27036:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:12:15,138:AnonymousFacade:22820:27036:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:12:15,139:CustomerFacade:22820:27036:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=5]
+2022-10-06 18:12:15,312:CustomerFacade:22820:27036:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy12121, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=1]
+2022-10-06 18:12:15,476:CustomerFacade:22820:27036:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=-1]
+2022-10-06 18:12:15,638:AnonymousFacade:22820:27036:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:12:15,640:AnonymousFacade:22820:27036:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:12:15,641:CustomerFacade:22820:27036:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=2]
+2022-10-06 18:12:15,643:CustomerFacade:22820:27036:INFO:CustomerFacade: adding ticket
+2022-10-06 18:12:15,646:CustomerFacade:22820:27036:INFO:CustomerFacade: ticket add successfully
+2022-10-06 18:12:15,646:CustomerFacade:22820:27036:INFO:CustomerFacade: getting tickets by customer id 2
+2022-10-06 18:12:15,811:CustomerFacade:22820:27036:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=5, customer_id=2]
+2022-10-06 18:12:15,976:CustomerFacade:22820:27036:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=5, customer_id=-1]
+2022-10-06 18:12:15,976:CustomerFacade:22820:27036:ERROR:CustomerFacade: customer id is negative
+2022-10-06 18:13:33,765:AnonymousFacade:30712:34160:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:13:33,767:AnonymousFacade:30712:34160:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:13:33,769:CustomerFacade:30712:34160:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=2]
+2022-10-06 18:13:33,771:CustomerFacade:30712:34160:INFO:CustomerFacade: adding ticket
+2022-10-06 18:13:33,774:CustomerFacade:30712:34160:INFO:CustomerFacade: ticket add successfully
+2022-10-06 18:13:33,774:CustomerFacade:30712:34160:INFO:CustomerFacade: getting tickets by customer id 2
+2022-10-06 18:13:33,952:AnonymousFacade:30712:34160:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 18:13:33,953:AnonymousFacade:30712:34160:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:13:33,955:AnonymousFacade:30712:34160:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:13:33,956:CustomerFacade:30712:34160:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=5]
+2022-10-06 18:13:34,135:CustomerFacade:30712:34160:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy12121, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=1]
+2022-10-06 18:13:34,296:CustomerFacade:30712:34160:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=-1]
+2022-10-06 18:13:34,461:AnonymousFacade:30712:34160:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:13:34,463:AnonymousFacade:30712:34160:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:13:34,464:CustomerFacade:30712:34160:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=2]
+2022-10-06 18:13:34,466:CustomerFacade:30712:34160:INFO:CustomerFacade: adding ticket
+2022-10-06 18:13:34,468:CustomerFacade:30712:34160:INFO:CustomerFacade: ticket add successfully
+2022-10-06 18:13:34,468:CustomerFacade:30712:34160:INFO:CustomerFacade: getting tickets by customer id 2
+2022-10-06 18:13:34,634:CustomerFacade:30712:34160:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=5, customer_id=2]
+2022-10-06 18:13:34,797:CustomerFacade:30712:34160:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=5, customer_id=-1]
+2022-10-06 18:13:34,797:CustomerFacade:30712:34160:ERROR:CustomerFacade: customer id is negative
+2022-10-06 18:13:34,962:CustomerFacade:30712:34160:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=-1, customer_id=2]
+2022-10-06 18:13:34,962:CustomerFacade:30712:34160:ERROR:CustomerFacade: flight id is negative
+2022-10-06 18:18:11,555:AnonymousFacade:20284:33896:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:18:11,557:AnonymousFacade:20284:33896:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:18:11,559:CustomerFacade:20284:33896:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=2]
+2022-10-06 18:18:11,561:CustomerFacade:20284:33896:INFO:CustomerFacade: adding ticket
+2022-10-06 18:18:11,564:CustomerFacade:20284:33896:INFO:CustomerFacade: ticket add successfully
+2022-10-06 18:18:11,564:CustomerFacade:20284:33896:INFO:CustomerFacade: getting tickets by customer id 2
+2022-10-06 18:18:11,738:AnonymousFacade:20284:33896:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 18:18:11,739:AnonymousFacade:20284:33896:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:18:11,741:AnonymousFacade:20284:33896:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:18:11,742:CustomerFacade:20284:33896:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=5]
+2022-10-06 18:18:11,908:CustomerFacade:20284:33896:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy12121, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=1]
+2022-10-06 18:18:12,070:CustomerFacade:20284:33896:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=-1]
+2022-10-06 18:18:12,230:AnonymousFacade:20284:33896:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:18:12,232:AnonymousFacade:20284:33896:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:18:12,233:CustomerFacade:20284:33896:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=2]
+2022-10-06 18:18:12,234:CustomerFacade:20284:33896:INFO:CustomerFacade: adding ticket
+2022-10-06 18:18:12,237:CustomerFacade:20284:33896:INFO:CustomerFacade: ticket add successfully
+2022-10-06 18:18:12,237:CustomerFacade:20284:33896:INFO:CustomerFacade: getting tickets by customer id 2
+2022-10-06 18:18:12,401:CustomerFacade:20284:33896:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=5, customer_id=2]
+2022-10-06 18:18:12,564:CustomerFacade:20284:33896:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=5, customer_id=-1]
+2022-10-06 18:18:12,564:CustomerFacade:20284:33896:ERROR:CustomerFacade: customer id is negative
+2022-10-06 18:18:12,726:CustomerFacade:20284:33896:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=-1, customer_id=2]
+2022-10-06 18:18:12,726:CustomerFacade:20284:33896:ERROR:CustomerFacade: flight id is negative
+2022-10-06 18:18:29,371:AnonymousFacade:27576:33432:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:18:29,373:AnonymousFacade:27576:33432:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:18:29,375:CustomerFacade:27576:33432:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=2]
+2022-10-06 18:18:29,377:CustomerFacade:27576:33432:INFO:CustomerFacade: adding ticket
+2022-10-06 18:18:29,380:CustomerFacade:27576:33432:INFO:CustomerFacade: ticket add successfully
+2022-10-06 18:18:29,380:CustomerFacade:27576:33432:INFO:CustomerFacade: getting tickets by customer id 2
+2022-10-06 18:18:29,564:AnonymousFacade:27576:33432:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 18:18:29,565:AnonymousFacade:27576:33432:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:18:29,567:AnonymousFacade:27576:33432:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:18:29,567:CustomerFacade:27576:33432:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=5]
+2022-10-06 18:18:29,736:CustomerFacade:27576:33432:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy12121, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=1]
+2022-10-06 18:18:29,897:CustomerFacade:27576:33432:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=-1]
+2022-10-06 18:18:30,061:AnonymousFacade:27576:33432:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:18:30,063:AnonymousFacade:27576:33432:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:18:30,064:CustomerFacade:27576:33432:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=2]
+2022-10-06 18:18:30,066:CustomerFacade:27576:33432:INFO:CustomerFacade: adding ticket
+2022-10-06 18:18:30,068:CustomerFacade:27576:33432:INFO:CustomerFacade: ticket add successfully
+2022-10-06 18:18:30,068:CustomerFacade:27576:33432:INFO:CustomerFacade: getting tickets by customer id 2
+2022-10-06 18:18:30,231:CustomerFacade:27576:33432:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=5, customer_id=2]
+2022-10-06 18:18:30,392:CustomerFacade:27576:33432:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=5, customer_id=-1]
+2022-10-06 18:18:30,392:CustomerFacade:27576:33432:ERROR:CustomerFacade: customer id is negative
+2022-10-06 18:18:30,553:CustomerFacade:27576:33432:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=-1, customer_id=2]
+2022-10-06 18:18:30,553:CustomerFacade:27576:33432:ERROR:CustomerFacade: flight id is negative
+2022-10-06 18:18:30,715:CustomerFacade:27576:33432:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=2]
+2022-10-06 18:20:26,590:CustomerFacade:11244:28528:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=2]
+2022-10-06 18:20:49,426:CustomerFacade:32104:34044:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=2]
+2022-10-06 18:21:42,711:CustomerFacade:14604:1680:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=1]
+2022-10-06 18:21:51,804:CustomerFacade:14604:1680:INFO:CustomerFacade: adding ticket
+2022-10-06 18:21:55,314:CustomerFacade:14604:1680:INFO:CustomerFacade: ticket add successfully
+2022-10-06 18:22:43,814:CustomerFacade:32340:33576:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=1]
+2022-10-06 18:22:43,816:CustomerFacade:32340:33576:INFO:CustomerFacade: adding ticket
+2022-10-06 18:22:43,820:CustomerFacade:32340:33576:INFO:CustomerFacade: ticket add successfully
+2022-10-06 18:22:43,821:CustomerFacade:32340:33576:INFO:CustomerFacade: removing ticket Ticket: [id=1, flight_id=1, customer_id=1]
+2022-10-06 18:22:43,822:CustomerFacade:32340:33576:INFO:CustomerFacade: deleting ticket by id 1
+2022-10-06 18:22:44,016:AnonymousFacade:32340:33576:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 18:22:44,017:AnonymousFacade:32340:33576:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:22:44,019:AnonymousFacade:32340:33576:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:22:44,020:CustomerFacade:32340:33576:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=5]
+2022-10-06 18:22:44,186:CustomerFacade:32340:33576:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy12121, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=1]
+2022-10-06 18:22:44,347:CustomerFacade:32340:33576:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=-1]
+2022-10-06 18:22:44,510:AnonymousFacade:32340:33576:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:22:44,511:AnonymousFacade:32340:33576:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:22:44,512:CustomerFacade:32340:33576:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=2]
+2022-10-06 18:22:44,514:CustomerFacade:32340:33576:INFO:CustomerFacade: adding ticket
+2022-10-06 18:22:44,516:CustomerFacade:32340:33576:INFO:CustomerFacade: ticket add successfully
+2022-10-06 18:22:44,516:CustomerFacade:32340:33576:INFO:CustomerFacade: getting tickets by customer id 2
+2022-10-06 18:22:44,678:CustomerFacade:32340:33576:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=5, customer_id=2]
+2022-10-06 18:22:44,845:CustomerFacade:32340:33576:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=5, customer_id=-1]
+2022-10-06 18:22:44,845:CustomerFacade:32340:33576:ERROR:CustomerFacade: customer id is negative
+2022-10-06 18:22:45,012:CustomerFacade:32340:33576:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=-1, customer_id=2]
+2022-10-06 18:22:45,012:CustomerFacade:32340:33576:ERROR:CustomerFacade: flight id is negative
+2022-10-06 18:22:45,174:CustomerFacade:32340:33576:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=1]
+2022-10-06 18:22:45,176:CustomerFacade:32340:33576:INFO:CustomerFacade: adding ticket
+2022-10-06 18:22:45,178:CustomerFacade:32340:33576:INFO:CustomerFacade: ticket add successfully
+2022-10-06 18:22:45,179:CustomerFacade:32340:33576:INFO:CustomerFacade: removing ticket Ticket: [id=1, flight_id=1, customer_id=1]
+2022-10-06 18:22:45,180:CustomerFacade:32340:33576:INFO:CustomerFacade: deleting ticket by id 1
+2022-10-06 18:23:49,846:CustomerFacade:33504:33344:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=1]
+2022-10-06 18:23:49,849:CustomerFacade:33504:33344:INFO:CustomerFacade: adding ticket
+2022-10-06 18:23:49,852:CustomerFacade:33504:33344:INFO:CustomerFacade: ticket add successfully
+2022-10-06 18:23:49,853:CustomerFacade:33504:33344:INFO:CustomerFacade: removing ticket Ticket: [id=1, flight_id=1, customer_id=1]
+2022-10-06 18:23:49,854:CustomerFacade:33504:33344:INFO:CustomerFacade: deleting ticket by id 1
+2022-10-06 18:23:50,043:AnonymousFacade:33504:33344:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 18:23:50,044:AnonymousFacade:33504:33344:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:23:50,046:AnonymousFacade:33504:33344:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:23:50,048:CustomerFacade:33504:33344:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=5]
+2022-10-06 18:23:50,214:CustomerFacade:33504:33344:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy12121, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=1]
+2022-10-06 18:23:50,379:CustomerFacade:33504:33344:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=-1]
+2022-10-06 18:23:50,544:AnonymousFacade:33504:33344:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:23:50,546:AnonymousFacade:33504:33344:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:23:50,546:CustomerFacade:33504:33344:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=2]
+2022-10-06 18:23:50,548:CustomerFacade:33504:33344:INFO:CustomerFacade: adding ticket
+2022-10-06 18:23:50,550:CustomerFacade:33504:33344:INFO:CustomerFacade: ticket add successfully
+2022-10-06 18:23:50,551:CustomerFacade:33504:33344:INFO:CustomerFacade: getting tickets by customer id 2
+2022-10-06 18:23:50,715:CustomerFacade:33504:33344:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=5, customer_id=2]
+2022-10-06 18:23:50,880:CustomerFacade:33504:33344:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=5, customer_id=-1]
+2022-10-06 18:23:50,880:CustomerFacade:33504:33344:ERROR:CustomerFacade: customer id is negative
+2022-10-06 18:23:51,048:CustomerFacade:33504:33344:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=-1, customer_id=2]
+2022-10-06 18:23:51,048:CustomerFacade:33504:33344:ERROR:CustomerFacade: flight id is negative
+2022-10-06 18:23:51,209:CustomerFacade:33504:33344:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=1]
+2022-10-06 18:23:51,210:CustomerFacade:33504:33344:INFO:CustomerFacade: adding ticket
+2022-10-06 18:23:51,213:CustomerFacade:33504:33344:INFO:CustomerFacade: ticket add successfully
+2022-10-06 18:23:51,214:CustomerFacade:33504:33344:INFO:CustomerFacade: removing ticket Ticket: [id=1, flight_id=1, customer_id=1]
+2022-10-06 18:23:51,215:CustomerFacade:33504:33344:INFO:CustomerFacade: deleting ticket by id 1
+2022-10-06 18:24:00,575:CustomerFacade:33088:31144:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=1]
+2022-10-06 18:24:00,578:CustomerFacade:33088:31144:INFO:CustomerFacade: adding ticket
+2022-10-06 18:24:00,581:CustomerFacade:33088:31144:INFO:CustomerFacade: ticket add successfully
+2022-10-06 18:24:00,582:CustomerFacade:33088:31144:INFO:CustomerFacade: removing ticket Ticket: [id=1, flight_id=1, customer_id=1]
+2022-10-06 18:24:00,583:CustomerFacade:33088:31144:INFO:CustomerFacade: deleting ticket by id 1
+2022-10-06 18:24:00,758:AnonymousFacade:33088:31144:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 18:24:00,759:AnonymousFacade:33088:31144:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:24:00,761:AnonymousFacade:33088:31144:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:24:00,762:CustomerFacade:33088:31144:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=5]
+2022-10-06 18:24:00,929:CustomerFacade:33088:31144:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy12121, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=1]
+2022-10-06 18:24:01,095:CustomerFacade:33088:31144:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=-1]
+2022-10-06 18:24:01,258:AnonymousFacade:33088:31144:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:24:01,260:AnonymousFacade:33088:31144:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:24:01,261:CustomerFacade:33088:31144:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=2]
+2022-10-06 18:24:01,262:CustomerFacade:33088:31144:INFO:CustomerFacade: adding ticket
+2022-10-06 18:24:01,265:CustomerFacade:33088:31144:INFO:CustomerFacade: ticket add successfully
+2022-10-06 18:24:01,265:CustomerFacade:33088:31144:INFO:CustomerFacade: getting tickets by customer id 2
+2022-10-06 18:24:01,432:CustomerFacade:33088:31144:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=5, customer_id=2]
+2022-10-06 18:24:01,594:CustomerFacade:33088:31144:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=5, customer_id=-1]
+2022-10-06 18:24:01,594:CustomerFacade:33088:31144:ERROR:CustomerFacade: customer id is negative
+2022-10-06 18:24:01,756:CustomerFacade:33088:31144:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=-1, customer_id=2]
+2022-10-06 18:24:01,756:CustomerFacade:33088:31144:ERROR:CustomerFacade: flight id is negative
+2022-10-06 18:24:01,919:CustomerFacade:33088:31144:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=1]
+2022-10-06 18:24:01,922:CustomerFacade:33088:31144:INFO:CustomerFacade: adding ticket
+2022-10-06 18:24:01,925:CustomerFacade:33088:31144:INFO:CustomerFacade: ticket add successfully
+2022-10-06 18:24:01,926:CustomerFacade:33088:31144:INFO:CustomerFacade: removing ticket Ticket: [id=1, flight_id=1, customer_id=1]
+2022-10-06 18:24:01,927:CustomerFacade:33088:31144:INFO:CustomerFacade: deleting ticket by id 1
+2022-10-06 18:24:02,095:CustomerFacade:33088:31144:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=-1]
+2022-10-06 18:24:02,095:CustomerFacade:33088:31144:ERROR:CustomerFacade: customer id is negative
+2022-10-06 18:24:22,046:CustomerFacade:30968:31152:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=1]
+2022-10-06 18:24:22,048:CustomerFacade:30968:31152:INFO:CustomerFacade: adding ticket
+2022-10-06 18:24:22,051:CustomerFacade:30968:31152:INFO:CustomerFacade: ticket add successfully
+2022-10-06 18:24:22,052:CustomerFacade:30968:31152:INFO:CustomerFacade: removing ticket Ticket: [id=1, flight_id=1, customer_id=1]
+2022-10-06 18:24:22,053:CustomerFacade:30968:31152:INFO:CustomerFacade: deleting ticket by id 1
+2022-10-06 18:24:22,228:AnonymousFacade:30968:31152:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 18:24:22,229:AnonymousFacade:30968:31152:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:24:22,231:AnonymousFacade:30968:31152:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:24:22,232:CustomerFacade:30968:31152:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=5]
+2022-10-06 18:24:22,399:CustomerFacade:30968:31152:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy12121, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=1]
+2022-10-06 18:24:22,563:CustomerFacade:30968:31152:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=-1]
+2022-10-06 18:24:22,722:AnonymousFacade:30968:31152:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:24:22,724:AnonymousFacade:30968:31152:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:24:22,725:CustomerFacade:30968:31152:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=2]
+2022-10-06 18:24:22,726:CustomerFacade:30968:31152:INFO:CustomerFacade: adding ticket
+2022-10-06 18:24:22,729:CustomerFacade:30968:31152:INFO:CustomerFacade: ticket add successfully
+2022-10-06 18:24:22,729:CustomerFacade:30968:31152:INFO:CustomerFacade: getting tickets by customer id 2
+2022-10-06 18:24:22,891:CustomerFacade:30968:31152:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=5, customer_id=2]
+2022-10-06 18:24:23,054:CustomerFacade:30968:31152:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=5, customer_id=-1]
+2022-10-06 18:24:23,054:CustomerFacade:30968:31152:ERROR:CustomerFacade: customer id is negative
+2022-10-06 18:24:23,218:CustomerFacade:30968:31152:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=-1, customer_id=2]
+2022-10-06 18:24:23,218:CustomerFacade:30968:31152:ERROR:CustomerFacade: flight id is negative
+2022-10-06 18:24:23,379:CustomerFacade:30968:31152:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=1]
+2022-10-06 18:24:23,381:CustomerFacade:30968:31152:INFO:CustomerFacade: adding ticket
+2022-10-06 18:24:23,383:CustomerFacade:30968:31152:INFO:CustomerFacade: ticket add successfully
+2022-10-06 18:24:23,384:CustomerFacade:30968:31152:INFO:CustomerFacade: removing ticket Ticket: [id=1, flight_id=1, customer_id=1]
+2022-10-06 18:24:23,385:CustomerFacade:30968:31152:INFO:CustomerFacade: deleting ticket by id 1
+2022-10-06 18:24:23,548:CustomerFacade:30968:31152:INFO:CustomerFacade: removing ticket Ticket: [id=None, flight_id=1, customer_id=-1]
+2022-10-06 18:26:36,045:CustomerFacade:34748:26072:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=1]
+2022-10-06 18:26:36,047:CustomerFacade:34748:26072:INFO:CustomerFacade: adding ticket
+2022-10-06 18:26:36,050:CustomerFacade:34748:26072:INFO:CustomerFacade: ticket add successfully
+2022-10-06 18:26:36,052:CustomerFacade:34748:26072:INFO:CustomerFacade: removing ticket Ticket: [id=1, flight_id=1, customer_id=1]
+2022-10-06 18:26:36,053:CustomerFacade:34748:26072:INFO:CustomerFacade: deleting ticket by id 1
+2022-10-06 18:26:36,224:AnonymousFacade:34748:26072:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 18:26:36,226:AnonymousFacade:34748:26072:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:26:36,228:AnonymousFacade:34748:26072:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:26:36,229:CustomerFacade:34748:26072:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=5]
+2022-10-06 18:26:36,398:CustomerFacade:34748:26072:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy12121, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=1]
+2022-10-06 18:26:36,562:CustomerFacade:34748:26072:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=-1]
+2022-10-06 18:26:36,720:AnonymousFacade:34748:26072:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:26:36,722:AnonymousFacade:34748:26072:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:26:36,723:CustomerFacade:34748:26072:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=2]
+2022-10-06 18:26:36,725:CustomerFacade:34748:26072:INFO:CustomerFacade: adding ticket
+2022-10-06 18:26:36,727:CustomerFacade:34748:26072:INFO:CustomerFacade: ticket add successfully
+2022-10-06 18:26:36,727:CustomerFacade:34748:26072:INFO:CustomerFacade: getting tickets by customer id 2
+2022-10-06 18:26:36,892:CustomerFacade:34748:26072:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=5, customer_id=2]
+2022-10-06 18:26:37,053:CustomerFacade:34748:26072:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=5, customer_id=-1]
+2022-10-06 18:26:37,053:CustomerFacade:34748:26072:ERROR:CustomerFacade: customer id is negative
+2022-10-06 18:26:37,217:CustomerFacade:34748:26072:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=-1, customer_id=2]
+2022-10-06 18:26:37,217:CustomerFacade:34748:26072:ERROR:CustomerFacade: flight id is negative
+2022-10-06 18:26:37,378:CustomerFacade:34748:26072:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=1]
+2022-10-06 18:26:37,380:CustomerFacade:34748:26072:INFO:CustomerFacade: adding ticket
+2022-10-06 18:26:37,382:CustomerFacade:34748:26072:INFO:CustomerFacade: ticket add successfully
+2022-10-06 18:26:37,383:CustomerFacade:34748:26072:INFO:CustomerFacade: removing ticket Ticket: [id=1, flight_id=1, customer_id=1]
+2022-10-06 18:26:37,384:CustomerFacade:34748:26072:INFO:CustomerFacade: deleting ticket by id 1
+2022-10-06 18:26:37,548:CustomerFacade:34748:26072:INFO:CustomerFacade: removing ticket Ticket: [id=None, flight_id=1, customer_id=-1]
+2022-10-06 18:26:37,709:CustomerFacade:34748:26072:INFO:CustomerFacade: removing ticket Ticket: [id=None, flight_id=-1, customer_id=1]
+2022-10-06 18:27:33,139:CustomerFacade:27036:20832:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=1]
+2022-10-06 18:27:33,141:CustomerFacade:27036:20832:INFO:CustomerFacade: adding ticket
+2022-10-06 18:27:33,144:CustomerFacade:27036:20832:INFO:CustomerFacade: ticket add successfully
+2022-10-06 18:27:33,146:CustomerFacade:27036:20832:INFO:CustomerFacade: removing ticket Ticket: [id=1, flight_id=1, customer_id=1]
+2022-10-06 18:27:33,147:CustomerFacade:27036:20832:INFO:CustomerFacade: deleting ticket by id 1
+2022-10-06 18:27:33,319:AnonymousFacade:27036:20832:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 18:27:33,321:AnonymousFacade:27036:20832:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:27:33,323:AnonymousFacade:27036:20832:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:27:33,324:CustomerFacade:27036:20832:INFO:CustomerFacade: updating customer Customer: [id=2, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=5]
+2022-10-06 18:27:33,498:CustomerFacade:27036:20832:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy12121, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=1]
+2022-10-06 18:27:33,659:CustomerFacade:27036:20832:INFO:CustomerFacade: updating customer Customer: [id=None, first_name=roy1, last_name=duvdev1, address=tel avivs, phone_no=2354, credit_card_no=1521, user_id=-1]
+2022-10-06 18:27:33,821:AnonymousFacade:27036:20832:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:27:33,823:AnonymousFacade:27036:20832:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:27:33,824:CustomerFacade:27036:20832:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=2]
+2022-10-06 18:27:33,826:CustomerFacade:27036:20832:INFO:CustomerFacade: adding ticket
+2022-10-06 18:27:33,828:CustomerFacade:27036:20832:INFO:CustomerFacade: ticket add successfully
+2022-10-06 18:27:33,828:CustomerFacade:27036:20832:INFO:CustomerFacade: getting tickets by customer id 2
+2022-10-06 18:27:33,991:CustomerFacade:27036:20832:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=5, customer_id=2]
+2022-10-06 18:27:34,153:CustomerFacade:27036:20832:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=5, customer_id=-1]
+2022-10-06 18:27:34,153:CustomerFacade:27036:20832:ERROR:CustomerFacade: customer id is negative
+2022-10-06 18:27:34,318:CustomerFacade:27036:20832:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=-1, customer_id=2]
+2022-10-06 18:27:34,319:CustomerFacade:27036:20832:ERROR:CustomerFacade: flight id is negative
+2022-10-06 18:27:34,483:CustomerFacade:27036:20832:INFO:CustomerFacade: adding ticket Ticket: [id=None, flight_id=1, customer_id=1]
+2022-10-06 18:27:34,485:CustomerFacade:27036:20832:INFO:CustomerFacade: adding ticket
+2022-10-06 18:27:34,487:CustomerFacade:27036:20832:INFO:CustomerFacade: ticket add successfully
+2022-10-06 18:27:34,488:CustomerFacade:27036:20832:INFO:CustomerFacade: removing ticket Ticket: [id=1, flight_id=1, customer_id=1]
+2022-10-06 18:27:34,489:CustomerFacade:27036:20832:INFO:CustomerFacade: deleting ticket by id 1
+2022-10-06 18:27:34,652:CustomerFacade:27036:20832:INFO:CustomerFacade: removing ticket Ticket: [id=None, flight_id=1, customer_id=-1]
+2022-10-06 18:27:34,813:CustomerFacade:27036:20832:INFO:CustomerFacade: removing ticket Ticket: [id=None, flight_id=-1, customer_id=1]
+2022-10-06 18:27:34,977:CustomerFacade:27036:20832:INFO:CustomerFacade: removing ticket Ticket: [id=None, flight_id=1, customer_id=1]
+2022-10-06 18:27:44,591:AnonymousFacade:1120:21060:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 18:27:44,591:AnonymousFacade:1120:21060:ERROR:User: [id=5, user_name=roy_admin1, password=Aa1222, email=duv, user_role=1]
+2022-10-06 18:27:44,592:AnonymousFacade:1120:21060:ERROR:User: [id=5, user_name=roy_admin1, password=Aa1222, email=duv, user_role=1]
+2022-10-06 18:27:44,593:AnonymousFacade:1120:21060:INFO:LoginToken[id_=5, name="roy_admin1", role="Administrator"] logged in to the system.
+2022-10-06 18:27:44,760:AirlineCompanyFacade:1120:21060:INFO:AirlineCompanyFacade: updating airline 1
+2022-10-06 18:27:44,760:AirlineCompanyFacade:1120:21060:INFO:AirlineCompanyFacade: getting airline by id 1
+2022-10-06 18:27:44,924:AdministratorFacade:1120:21060:INFO:AdministratorFacade: adding airline by id None
+2022-10-06 18:27:44,926:AdministratorFacade:1120:21060:INFO:AdministratorFacade: airline add successfully
+2022-10-06 18:27:44,927:AirlineCompanyFacade:1120:21060:INFO:AirlineCompanyFacade: adding Flight: [id=5, airline_company_id=3, origin_country_id=3, destination_country_id=2, departure_time=2022-03-21 00:00:00, landing_time=2022-07-08 00:00:00, remaining_tickets=9]
+2022-10-06 18:27:44,930:AirlineCompanyFacade:1120:21060:INFO:AirlineCompanyFacade: adding flight 5 successes
+2022-10-06 18:27:44,930:AirlineCompanyFacade:1120:21060:INFO:AirlineCompanyFacade: updating flight
+2022-10-06 18:27:44,933:AirlineCompanyFacade:1120:21060:INFO:AirlineCompanyFacade: updating flight by id
+2022-10-06 18:27:45,097:AdministratorFacade:1120:21060:INFO:AdministratorFacade: adding airline by id None
+2022-10-06 18:27:45,099:AdministratorFacade:1120:21060:INFO:AdministratorFacade: airline add successfully
+2022-10-06 18:27:45,099:AirlineCompanyFacade:1120:21060:INFO:AirlineCompanyFacade: updating airline 3
+2022-10-06 18:27:45,100:AirlineCompanyFacade:1120:21060:INFO:AirlineCompanyFacade: getting airline by id 3
+2022-10-06 18:27:45,100:AirlineCompanyFacade:1120:21060:ERROR:AirlineCompanyFacade: could not update air cause negative country id
+2022-10-06 18:27:45,265:AirlineCompanyFacade:1120:21060:INFO:AirlineCompanyFacade: removing flight by id None
+2022-10-06 18:27:45,267:AirlineCompanyFacade:1120:21060:INFO:AirlineCompanyFacade: checking for flight removal by id None
+2022-10-06 18:27:45,267:AirlineCompanyFacade:1120:21060:INFO:AirlineCompanyFacade: updating flight
+2022-10-06 18:27:45,432:AdministratorFacade:1120:21060:INFO:AdministratorFacade: adding airline by id None
+2022-10-06 18:27:45,434:AdministratorFacade:1120:21060:INFO:AdministratorFacade: airline add successfully
+2022-10-06 18:27:45,435:AirlineCompanyFacade:1120:21060:INFO:AirlineCompanyFacade: updating airline 3
+2022-10-06 18:27:45,435:AirlineCompanyFacade:1120:21060:INFO:AirlineCompanyFacade: getting airline by id 3
+2022-10-06 18:27:45,436:AirlineCompanyFacade:1120:21060:ERROR:AirlineCompanyFacade: could not update air cause negative user id
+2022-10-06 18:27:45,601:AirlineCompanyFacade:1120:21060:INFO:AirlineCompanyFacade: updating flight
+2022-10-06 18:27:45,766:AdministratorFacade:1120:21060:INFO:AdministratorFacade: adding airline by id None
+2022-10-06 18:27:45,768:AdministratorFacade:1120:21060:INFO:AdministratorFacade: airline add successfully
+2022-10-06 18:27:45,769:AdministratorFacade:1120:21060:INFO:AdministratorFacade: removing airline by id 3
+2022-10-06 18:27:45,771:AdministratorFacade:1120:21060:INFO:AdministratorFacade: airline deleted successfully
+2022-10-06 18:27:45,772:AdministratorFacade:1120:21060:INFO:AirlineCompanyFacade: checking for airline removal by id 3
+2022-10-06 18:27:45,772:AirlineCompanyFacade:1120:21060:INFO:AirlineCompanyFacade: updating airline 3
+2022-10-06 18:27:45,772:AirlineCompanyFacade:1120:21060:INFO:AirlineCompanyFacade: getting airline by id 3
+2022-10-06 18:27:58,258:AdministratorFacade:32800:33832:INFO:AdministratorFacade: getting all customers
+2022-10-06 18:27:58,440:AnonymousFacade:32800:33832:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 18:27:58,441:AdministratorFacade:32800:33832:INFO:AdministratorFacade: adding airline by id None
+2022-10-06 18:27:58,443:AdministratorFacade:32800:33832:INFO:AdministratorFacade: airline add successfully
+2022-10-06 18:27:58,615:AdministratorFacade:32800:33832:INFO:AdministratorFacade: adding airline by id None
+2022-10-06 18:27:58,615:AdministratorFacade:32800:33832:INFO:AdministratorFacade: adding airline by id None
+2022-10-06 18:27:58,617:AdministratorFacade:32800:33832:INFO:AdministratorFacade: airline add successfully
+2022-10-06 18:27:58,785:AnonymousFacade:32800:33832:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 18:27:58,786:AnonymousFacade:32800:33832:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:27:58,788:AnonymousFacade:32800:33832:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:27:59,114:AdministratorFacade:32800:33832:INFO:AdministratorFacade: adding administrator by id None
+2022-10-06 18:27:59,116:AdministratorFacade:32800:33832:INFO:AdministratorFacade: admin 2 add successfully
+2022-10-06 18:27:59,277:AdministratorFacade:32800:33832:INFO:AdministratorFacade: adding administrator by id None
+2022-10-06 18:27:59,757:AdministratorFacade:32800:33832:INFO:AdministratorFacade: removing administrator by id -2
+2022-10-06 18:27:59,920:AnonymousFacade:32800:33832:INFO:AnonymousFacade: adding customer by id None
+2022-10-06 18:27:59,921:AnonymousFacade:32800:33832:INFO:AnonymousFacade: customer add successfully
+2022-10-06 18:27:59,922:AdministratorFacade:32800:33832:INFO:AdministratorFacade: removing customer by id 2
+2022-10-06 18:27:59,924:AdministratorFacade:32800:33832:INFO:AdministratorFacade: customer Customer.id deleted successfully
+2022-10-06 18:28:00,087:AdministratorFacade:32800:33832:INFO:AdministratorFacade: adding administrator by id None
+2022-10-06 18:28:00,088:AdministratorFacade:32800:33832:INFO:AdministratorFacade: admin 2 add successfully
+2022-10-06 18:28:00,088:AdministratorFacade:32800:33832:INFO:AdministratorFacade: removing administrator by id 2
+2022-10-06 18:28:00,090:AdministratorFacade:32800:33832:INFO:AdministratorFacade: administrator Administrator.id removed successfully
+2022-10-06 18:28:00,253:AdministratorFacade:32800:33832:INFO:AdministratorFacade: adding airline by id None
+2022-10-06 18:28:00,255:AdministratorFacade:32800:33832:INFO:AdministratorFacade: airline add successfully
+2022-10-06 18:28:00,256:AdministratorFacade:32800:33832:INFO:AdministratorFacade: removing airline by id 3
+2022-10-06 18:28:00,257:AdministratorFacade:32800:33832:INFO:AdministratorFacade: airline deleted successfully
+2022-10-06 18:28:00,257:AdministratorFacade:32800:33832:INFO:AirlineCompanyFacade: airline removed
+2022-10-06 18:28:16,664:AnonymousFacade:23860:17200:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 18:28:16,665:AnonymousFacade:23860:17200:ERROR:User: [id=5, user_name=roy_1212, password=6555, email=duv, user_role=3]
+2022-10-06 18:28:16,666:AnonymousFacade:23860:17200:ERROR:User: [id=5, user_name=roy_1212, password=6555, email=duv, user_role=3]
+2022-10-06 18:28:16,666:AnonymousFacade:23860:17200:INFO:LoginToken[id_=5, name="roy_1212", role="AirlineCompany"] logged in to the system.
+2022-10-06 18:28:16,836:AnonymousFacade:23860:17200:ERROR:None
+2022-10-06 18:28:17,006:AnonymousFacade:23860:17200:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 18:28:17,007:AnonymousFacade:23860:17200:ERROR:User: [id=5, user_name=roy, password=6555, email=duv, user_role=1]
+2022-10-06 18:28:17,008:AnonymousFacade:23860:17200:ERROR:User: [id=5, user_name=roy, password=6555, email=duv, user_role=1]
+2022-10-06 18:28:17,008:AnonymousFacade:23860:17200:INFO:Wrong username roy or password 65224 has been entered to the login function.
+2022-10-06 18:28:17,177:AnonymousFacade:23860:17200:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 18:28:17,348:AnonymousFacade:23860:17200:INFO:AnonymousFacade: user add sucessfuly!
+2022-10-06 18:28:17,349:AnonymousFacade:23860:17200:ERROR:AnonymousFacade: UserName already exist!
+2022-10-13 16:27:07,916:FacadeBase:22080:11776:INFO:getting all flights from db
+2022-10-13 16:27:30,485:FacadeBase:22080:2324:INFO:getting all flights from db
+2022-10-13 16:31:00,760:FacadeBase:20300:34136:INFO:getting all flights from db
+2022-10-13 16:32:30,207:FacadeBase:6156:31764:INFO:getting all flights from db
+2022-10-13 16:46:05,602:FacadeBase:19288:3632:INFO:getting all flights from db
+2022-10-13 16:59:37,446:FacadeBase:32724:17600:INFO:getting all flights from db
+2022-10-13 17:12:20,331:FacadeBase:30580:29208:INFO:getting all flights from db
+2022-10-13 17:18:18,170:FacadeBase:7568:34108:INFO:getting all flights from db
+2022-10-13 17:21:20,758:FacadeBase:32376:28460:INFO:getting all flights from db
+2022-10-13 17:30:30,139:FacadeBase:17076:21128:INFO:getting all flights from db
+2022-10-13 17:32:44,196:FacadeBase:2528:17448:INFO:getting all flights from db
+2022-10-14 16:29:19,548:FacadeBase:9104:22168:INFO:getting all flights from db
+2022-10-14 16:35:09,110:FacadeBase:23440:26300:INFO:getting all flights from db
+2022-10-14 16:39:01,443:FacadeBase:10344:34596:INFO:getting all flights from db
+2022-10-14 16:41:28,659:FacadeBase:28792:30992:INFO:getting all flights from db
+2022-10-14 16:46:33,431:FacadeBase:31232:9908:INFO:gets flights by dekta time
+2022-10-14 16:46:38,499:FacadeBase:31232:9908:INFO:gets all flights in 4
+2022-10-14 16:48:38,992:FacadeBase:25988:23924:INFO:gets flights by dekta time
+2022-10-14 16:48:42,928:FacadeBase:25988:23924:INFO:gets all flights in 4
+2022-10-14 16:59:29,961:FacadeBase:1916:32520:INFO:gets flights by dekta time
+2022-10-14 16:59:30,963:FacadeBase:1916:32520:INFO:gets all flights in 8
+2022-10-14 17:02:57,224:FacadeBase:14316:28524:INFO:gets flights by dekta time
+2022-10-14 17:02:58,028:FacadeBase:14316:28524:INFO:gets all flights in 4
+2022-10-14 17:04:41,651:FacadeBase:29412:34140:INFO:gets flights by dekta time
+2022-10-14 17:04:42,513:FacadeBase:29412:34140:INFO:gets all flights in 4
+2022-10-14 17:05:54,496:FacadeBase:24064:7156:INFO:gets flights by dekta time
+2022-10-14 17:06:00,701:FacadeBase:24064:7156:INFO:gets all flights in 4
+2022-10-14 17:14:06,647:FacadeBase:14120:1968:INFO:gets flights by dekta time
+2022-10-14 17:14:07,580:FacadeBase:14120:1968:INFO:gets all flights in 4
+2022-10-14 17:17:00,473:FacadeBase:12024:3404:INFO:gets flights by dekta time
+2022-10-14 17:17:04,004:FacadeBase:12024:3404:INFO:gets all flights in 4
+2022-10-15 15:17:27,574:FacadeBase:8532:24404:INFO:getting all flights from db
+2022-10-15 15:19:13,054:FacadeBase:8532:33180:INFO:gets flights by dekta time
+2022-10-15 15:19:19,437:FacadeBase:8532:33180:INFO:gets all flights in 4
+2022-10-15 15:24:08,785:FacadeBase:29488:27072:INFO:gets flights by dekta time
+2022-10-15 15:24:13,536:FacadeBase:29488:27072:INFO:gets all flights in 4
+2022-10-15 15:29:05,583:FacadeBase:29488:8160:INFO:getting all flights from db
+2022-10-15 15:34:29,465:FacadeBase:29488:10576:INFO:gets flights by dekta time
+2022-10-15 15:34:30,599:FacadeBase:29488:10576:INFO:gets all flights in 4
+2022-10-15 15:42:50,538:FacadeBase:3244:33288:INFO:gets flights by dekta time
+2022-10-15 15:42:54,354:FacadeBase:3244:33288:INFO:gets all flights in 4
+2022-10-15 15:45:11,998:FacadeBase:33228:28932:INFO:gets flights by dekta time
+2022-10-15 15:45:15,189:FacadeBase:33228:28932:INFO:gets all flights in 6
+2022-10-15 15:46:46,098:FacadeBase:10576:18208:INFO:gets flights by dekta time
+2022-10-15 15:46:49,981:FacadeBase:10576:18208:INFO:gets all flights in 6
+2022-10-15 15:56:47,404:FacadeBase:9360:16160:INFO:getting all flights from db
+2022-10-15 15:59:30,850:FacadeBase:9360:14480:INFO:gets flights by dekta time
+2022-10-15 15:59:35,340:FacadeBase:9360:14480:INFO:gets all flights in 12
+2022-10-15 16:02:38,209:FacadeBase:352:29640:INFO:gets flights by dekta time
+2022-10-15 16:02:40,702:FacadeBase:352:29640:INFO:gets all flights in 12
+2022-10-15 16:02:48,266:FacadeBase:352:29640:ERROR:unknow error
+2022-10-15 16:05:16,702:FacadeBase:22308:10556:INFO:gets flights by dekta time
+2022-10-15 16:05:20,583:FacadeBase:22308:10556:INFO:gets all flights in 12
+2022-10-15 16:13:34,507:FacadeBase:9224:19644:INFO:getting all flights from db
+2022-10-15 16:15:24,144:FacadeBase:9224:31044:INFO:gets flights by dekta time
+2022-10-15 16:15:24,953:FacadeBase:9224:31044:INFO:gets all flights in 12
+2022-10-15 16:17:33,415:FacadeBase:9224:21552:INFO:getting all flights from db
+2022-10-15 16:17:51,346:FacadeBase:10352:19156:INFO:getting all flights from db
+2022-10-15 16:18:31,293:FacadeBase:10352:15768:INFO:gets flights by dekta time
+2022-10-15 16:18:31,293:FacadeBase:10352:15768:INFO:gets all flights in 12
+2022-10-15 16:32:23,278:FacadeBase:15284:30896:INFO:gets all flights in delta time
+2022-10-15 16:32:24,278:FacadeBase:15284:30896:INFO:gets all flights in dellta time 12
+2022-10-15 16:34:00,084:FacadeBase:9720:30564:INFO:gets all flights in delta time
+2022-10-15 16:34:00,830:FacadeBase:9720:30564:INFO:gets all flights in dellta time 12
+2022-10-18 15:16:28,226:FacadeBase:21144:20432:INFO:getting all flights from db
+2022-10-18 15:20:06,081:FacadeBase:25840:11776:INFO:gets all flights in delta time
+2022-10-18 15:20:06,081:FacadeBase:25840:11776:INFO:gets all flights in dellta time 12
+2022-10-18 15:21:13,278:FacadeBase:25840:34468:INFO:gets flights by dekta time
+2022-10-18 15:21:13,278:FacadeBase:25840:34468:INFO:gets all flights in 12
+2022-10-18 15:21:13,280:FacadeBase:25840:26680:INFO:gets all flights in delta time
+2022-10-18 15:21:13,280:FacadeBase:25840:26680:INFO:gets all flights in dellta time 12
+2022-10-18 16:30:58,022:FacadeBase:22716:14724:INFO:gets all flights in delta time
+2022-10-18 16:30:58,024:FacadeBase:22716:14724:INFO:gets all flights in dellta time 12
+2022-10-18 16:30:58,035:FacadeBase:22716:14724:INFO:gets flights by dekta time
+2022-10-18 16:30:58,035:FacadeBase:22716:14724:INFO:gets all flights in 12
+2022-10-18 16:42:10,197:FacadeBase:23664:26008:INFO:gets all flights in delta time
+2022-10-18 16:42:10,197:FacadeBase:23664:26008:INFO:gets all flights in dellta time 12
+2022-10-18 16:42:33,115:FacadeBase:23664:25684:INFO:gets all flights in delta time
+2022-10-18 16:42:33,115:FacadeBase:23664:25684:INFO:gets all flights in dellta time 12
+2022-10-18 16:42:33,124:FacadeBase:23664:25684:INFO:gets flights by dekta time
+2022-10-18 16:42:33,124:FacadeBase:23664:25684:INFO:gets all flights in 12
+2022-10-18 16:43:43,904:FacadeBase:11484:23768:INFO:gets all flights in delta time
+2022-10-18 16:43:43,905:FacadeBase:11484:23768:INFO:gets all flights in dellta time 12
+2022-10-18 16:43:43,914:FacadeBase:11484:23768:INFO:gets flights by dekta time
+2022-10-18 16:43:43,914:FacadeBase:11484:23768:INFO:gets all flights in 12
+2022-10-18 16:44:39,043:FacadeBase:11636:18312:INFO:gets all flights in delta time
+2022-10-18 16:44:39,043:FacadeBase:11636:18312:INFO:gets all flights in dellta time 12
+2022-10-18 16:44:39,053:FacadeBase:11636:18312:INFO:gets flights by dekta time
+2022-10-18 16:44:39,053:FacadeBase:11636:18312:INFO:gets all flights in 12
+2022-10-18 16:47:00,297:FacadeBase:19376:14808:INFO:gets all flights in delta time
+2022-10-18 16:47:00,297:FacadeBase:19376:14808:INFO:gets all flights in dellta time 12
+2022-10-18 16:47:00,307:FacadeBase:19376:14808:INFO:gets flights by dekta time
+2022-10-18 16:47:00,307:FacadeBase:19376:14808:INFO:gets all flights in 12
+2022-10-18 16:49:19,659:FacadeBase:19376:3660:INFO:gets all flights in delta time
+2022-10-18 16:49:19,659:FacadeBase:19376:3660:INFO:gets all flights in dellta time 12
+2022-10-18 16:49:19,668:FacadeBase:19376:3660:INFO:gets flights by dekta time
+2022-10-18 16:49:19,668:FacadeBase:19376:3660:INFO:gets all flights in 12
+2022-10-18 16:51:34,595:FacadeBase:19376:5336:INFO:gets all flights in delta time
+2022-10-18 16:51:34,595:FacadeBase:19376:5336:INFO:gets all flights in dellta time 12
+2022-10-18 16:51:34,604:FacadeBase:19376:5336:INFO:gets flights by dekta time
+2022-10-18 16:51:34,604:FacadeBase:19376:5336:INFO:gets all flights in 12
+2022-10-18 17:00:45,862:FacadeBase:13776:8624:INFO:gets all flights in delta time
+2022-10-18 17:00:45,862:FacadeBase:13776:8624:INFO:gets all flights in dellta time 12
+2022-10-18 17:00:45,871:FacadeBase:13776:8624:INFO:gets flights by dekta time
+2022-10-18 17:00:45,871:FacadeBase:13776:8624:INFO:gets all flights in 12
+2022-10-18 17:00:54,823:FacadeBase:13776:1708:INFO:getting all flights from db
+2022-10-18 17:01:22,303:FacadeBase:13776:8064:INFO:getting all flights from db
+2022-10-18 17:05:28,978:FacadeBase:14576:19024:INFO:getting all flights from db
+2022-10-18 17:06:19,597:FacadeBase:24196:28776:INFO:getting all flights from db
+2022-10-18 17:07:33,498:FacadeBase:18092:23884:INFO:getting all flights from db
+2022-10-18 17:08:20,707:FacadeBase:24924:29280:INFO:getting all flights from db
+2022-10-18 17:08:25,148:FacadeBase:24924:17604:INFO:getting all flights from db
+2022-10-18 17:08:26,644:FacadeBase:24924:7692:INFO:getting all flights from db
+2022-10-18 17:09:30,086:FacadeBase:9440:11936:INFO:getting all flights from db
+2022-10-18 17:10:52,168:FacadeBase:9680:23560:INFO:getting all flights from db
+2022-10-18 17:11:29,838:FacadeBase:23652:7596:INFO:getting all flights from db
+2022-10-18 17:16:29,913:FacadeBase:23652:29024:INFO:getting all flights from db
+2022-10-18 17:18:49,854:FacadeBase:18996:25488:INFO:getting all flights from db
+2022-10-18 17:18:54,155:FacadeBase:18996:13376:INFO:getting all flights from db
+2022-10-18 17:20:03,907:FacadeBase:19312:14516:INFO:getting all flights from db
+2022-10-18 17:21:11,674:FacadeBase:19312:20104:INFO:getting all flights from db
+2022-10-18 17:31:16,204:FacadeBase:6020:13788:INFO:getting all flights from db
+2022-10-18 17:49:53,319:FacadeBase:27004:10900:INFO:getting all flights from db
+2022-10-18 17:50:39,688:FacadeBase:27004:29324:INFO:getting all flights from db
+2022-10-18 17:53:31,614:FacadeBase:20576:17072:INFO:getting all flights from db
+2022-10-18 17:56:54,561:FacadeBase:17980:17648:INFO:getting all flights from db
+2022-10-18 17:58:50,613:FacadeBase:7820:10548:INFO:getting all flights from db
+2022-10-18 18:11:11,229:FacadeBase:22700:27132:INFO:getting all flights from db
+2022-10-18 18:11:58,609:FacadeBase:17876:23988:INFO:getting all flights from db
+2022-10-18 18:16:58,714:FacadeBase:13532:24092:INFO:getting all flights from db
+2022-10-18 18:21:59,061:FacadeBase:2740:980:INFO:getting all flights from db
+2022-10-18 18:22:34,287:FacadeBase:5764:29280:INFO:gets flights by dekta time
+2022-10-18 18:22:34,288:FacadeBase:5764:29280:INFO:gets all flights in 12
+2022-10-18 18:25:22,832:FacadeBase:18496:18828:INFO:gets all flights in delta time
+2022-10-18 18:25:22,833:FacadeBase:18496:18828:INFO:gets all flights in dellta time 12
+2022-10-18 18:28:53,344:FacadeBase:18496:14460:INFO:gets all flights in delta time
+2022-10-18 18:28:53,345:FacadeBase:18496:14460:INFO:gets all flights in dellta time 12
+2022-10-18 18:29:50,481:FacadeBase:23680:2108:INFO:gets all flights in delta time
+2022-10-18 18:29:50,482:FacadeBase:23680:2108:INFO:gets all flights in dellta time 12
+2022-10-18 18:34:50,568:FacadeBase:23680:28524:INFO:gets all flights in delta time
+2022-10-18 18:34:50,568:FacadeBase:23680:28524:INFO:gets all flights in dellta time 12
+2022-10-18 18:38:51,989:FacadeBase:23680:19380:INFO:gets all flights in delta time
+2022-10-18 18:38:51,989:FacadeBase:23680:19380:INFO:gets all flights in dellta time 12
+2022-10-18 18:38:53,629:FacadeBase:23680:11980:INFO:gets all flights in delta time
+2022-10-18 18:38:53,629:FacadeBase:23680:11980:INFO:gets all flights in dellta time 12
+2022-10-18 18:43:53,702:FacadeBase:23680:5896:INFO:gets all flights in delta time
+2022-10-18 18:43:53,703:FacadeBase:23680:5896:INFO:gets all flights in dellta time 12
+2022-10-18 18:48:54,017:FacadeBase:23680:12964:INFO:gets all flights in delta time
+2022-10-18 18:48:54,017:FacadeBase:23680:12964:INFO:gets all flights in dellta time 12
+2022-10-18 18:53:54,344:FacadeBase:23680:6116:INFO:gets all flights in delta time
+2022-10-18 18:53:54,345:FacadeBase:23680:6116:INFO:gets all flights in dellta time 12
+2022-10-18 18:57:00,785:FacadeBase:23680:11820:INFO:gets all flights in delta time
+2022-10-18 18:57:00,785:FacadeBase:23680:11820:INFO:gets all flights in dellta time 12
+2022-10-18 19:02:00,846:FacadeBase:23680:7340:INFO:gets all flights in delta time
+2022-10-18 19:02:00,846:FacadeBase:23680:7340:INFO:gets all flights in dellta time 12
+2022-10-18 19:07:01,152:FacadeBase:23680:10548:INFO:gets all flights in delta time
+2022-10-18 19:07:01,152:FacadeBase:23680:10548:INFO:gets all flights in dellta time 12
+2022-10-18 19:12:01,476:FacadeBase:23680:26408:INFO:gets all flights in delta time
+2022-10-18 19:12:01,476:FacadeBase:23680:26408:INFO:gets all flights in dellta time 12
+2022-10-18 19:13:41,550:FacadeBase:23680:18468:INFO:gets all flights in delta time
+2022-10-18 19:13:41,550:FacadeBase:23680:18468:INFO:gets all flights in dellta time 12
+2022-10-18 19:13:44,997:FacadeBase:23680:25684:INFO:gets all flights in delta time
+2022-10-18 19:13:44,998:FacadeBase:23680:25684:INFO:gets all flights in dellta time 12
+2022-10-18 19:14:02,939:FacadeBase:23680:19152:INFO:gets flights by dekta time
+2022-10-18 19:14:02,939:FacadeBase:23680:19152:INFO:gets all flights in 12
+2022-10-18 19:17:43,717:FacadeBase:25648:29224:INFO:gets all flights in delta time
+2022-10-18 19:17:43,717:FacadeBase:25648:29224:INFO:gets all flights in dellta time 12
+2022-10-18 19:20:00,987:FacadeBase:25648:27156:INFO:gets all flights in delta time
+2022-10-18 19:20:00,987:FacadeBase:25648:27156:INFO:gets all flights in dellta time 12
+2022-10-18 19:20:02,082:FacadeBase:25648:7052:INFO:gets all flights in delta time
+2022-10-18 19:20:02,082:FacadeBase:25648:7052:INFO:gets all flights in dellta time 12
+2022-10-18 19:20:02,596:FacadeBase:25648:14652:INFO:gets all flights in delta time
+2022-10-18 19:20:02,596:FacadeBase:25648:14652:INFO:gets all flights in dellta time 12
+2022-10-18 19:20:02,938:FacadeBase:25648:11488:INFO:gets all flights in delta time
+2022-10-18 19:20:02,938:FacadeBase:25648:11488:INFO:gets all flights in dellta time 12
+2022-10-18 19:20:03,250:FacadeBase:25648:26528:INFO:gets all flights in delta time
+2022-10-18 19:20:03,250:FacadeBase:25648:26528:INFO:gets all flights in dellta time 12
+2022-10-18 19:20:03,548:FacadeBase:25648:24376:INFO:gets all flights in delta time
+2022-10-18 19:20:03,548:FacadeBase:25648:24376:INFO:gets all flights in dellta time 12
+2022-10-18 19:21:15,576:FacadeBase:25648:10708:INFO:gets all flights in delta time
+2022-10-18 19:21:15,576:FacadeBase:25648:10708:INFO:gets all flights in dellta time 12
+2022-10-18 19:25:36,321:FacadeBase:25648:14828:INFO:gets all flights in delta time
+2022-10-18 19:25:36,321:FacadeBase:25648:14828:INFO:gets all flights in dellta time 12
+2022-10-18 19:25:37,683:FacadeBase:25648:5384:INFO:gets all flights in delta time
+2022-10-18 19:25:37,683:FacadeBase:25648:5384:INFO:gets all flights in dellta time 12
+2022-10-18 19:25:56,409:FacadeBase:25648:7272:INFO:gets all flights in delta time
+2022-10-18 19:25:56,409:FacadeBase:25648:7272:INFO:gets all flights in dellta time 12
+2022-10-18 19:25:57,490:FacadeBase:25648:17604:INFO:gets all flights in delta time
+2022-10-18 19:25:57,490:FacadeBase:25648:17604:INFO:gets all flights in dellta time 12
+2022-10-18 19:27:36,077:FacadeBase:25648:13976:INFO:gets all flights in delta time
+2022-10-18 19:27:36,077:FacadeBase:25648:13976:INFO:gets all flights in dellta time 12
+2022-10-18 19:29:57,510:FacadeBase:25648:11464:INFO:gets all flights in delta time
+2022-10-18 19:29:57,510:FacadeBase:25648:11464:INFO:gets all flights in dellta time 12
+2022-10-18 19:33:58,370:FacadeBase:2100:13456:INFO:gets all flights in delta time
+2022-10-18 19:33:58,370:FacadeBase:2100:13456:INFO:gets all flights in dellta time 12
+2022-10-18 19:36:00,258:FacadeBase:2100:21080:INFO:gets all flights in delta time
+2022-10-18 19:36:00,258:FacadeBase:2100:21080:INFO:gets all flights in dellta time 12
+2022-10-18 19:36:02,007:FacadeBase:2100:25992:INFO:gets all flights in delta time
+2022-10-18 19:36:02,007:FacadeBase:2100:25992:INFO:gets all flights in dellta time 12
+2022-10-18 19:37:36,296:FacadeBase:2100:10232:INFO:gets all flights in delta time
+2022-10-18 19:37:36,296:FacadeBase:2100:10232:INFO:gets all flights in dellta time 12
+2022-10-18 19:37:37,940:FacadeBase:2100:18648:INFO:gets all flights in delta time
+2022-10-18 19:37:37,940:FacadeBase:2100:18648:INFO:gets all flights in dellta time 12
+2022-10-18 19:37:39,086:FacadeBase:2100:14804:INFO:gets all flights in delta time
+2022-10-18 19:37:39,086:FacadeBase:2100:14804:INFO:gets all flights in dellta time 12
+2022-10-18 19:41:33,411:FacadeBase:19292:22316:INFO:gets all flights in delta time
+2022-10-18 19:41:33,411:FacadeBase:19292:22316:INFO:gets all flights in dellta time 12

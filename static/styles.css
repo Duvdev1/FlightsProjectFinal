@@ -1,0 +1,26 @@
+body {
+    background-color: lightgray;
+    color: blue;
+}
+table, th, td {
+    border-spacing: 0;
+    margin: 1rem;
+    background-color: #f5f5f5;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid black;
+}
+table-row:nth-child(even){
+    background-color: #e5e5ee;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table-info {
+    text-align: left;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table-cell {
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
